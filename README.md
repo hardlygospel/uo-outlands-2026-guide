@@ -254,57 +254,61 @@ Power Scrolls are among the most valuable items in the game — a 110 Swordsmans
 
 ### Skill Overview Table
 
+> **Skill cap:** 700 base (720 with Skill Mastery). Skills marked ⚠️ are **inactive/unused** in Outlands.
+
 | Skill | Category | What It Does |
 |---|---|---|
 | Swordsmanship | Combat | Hit chance with swords and axes |
 | Mace Fighting | Combat | Hit chance with maces and clubs |
 | Fencing | Combat | Hit chance with spears, daggers, kryss |
 | Archery | Combat | Hit chance with bows and crossbows |
-| Tactics | Combat | Bonus damage multiplier for all physical |
-| Anatomy | Combat | Bonus damage multiplier, diagnosis |
+| Wrestling | Combat | Unarmed combat; required for Arcane builds |
+| Tactics | Combat | Bonus damage multiplier for all physical attacks |
+| Anatomy | Combat | Bonus damage multiplier; allows diagnosis |
 | Parrying | Combat | Chance to block with a shield or weapon |
 | Healing | Combat | Effectiveness of bandage healing |
-| Magery | Magic | Cast power for Magery spell circle |
-| Evaluate Intelligence | Magic | Spell damage bonus for Magery |
-| Meditation | Magic | Passive and active mana regeneration |
-| Resist Spells | Magic | Reduces enemy spell damage and effects |
-| Necromancy | Magic | Dark spell system, life drain, forms |
-| Spirit Speak | Magic | Supports Necromancy; communicates with dead |
-| Mysticism | Magic | Elemental magic system |
-| Chivalry | Magic | Paladin magic, holy damage, healing |
-| Spellweaving | Magic | Nature magic, scales with group |
-| Animal Taming | Taming | Ability to tame and control creatures |
-| Animal Lore | Taming | Pet information; boosts Vet effectiveness |
-| Veterinary | Taming | Heals pets; requires Animal Lore |
-| Musicianship | Bard | Required base for all bard skills |
-| Peacemaking | Bard | Pacify creatures; stop attacks |
-| Provocation | Bard | Force creatures to fight each other |
-| Discordance | Bard | Weaken creature skills and stats |
-| Blacksmithy | Crafting | Create metal weapons and armour |
-| Tailoring | Crafting | Create leather and cloth armour |
-| Alchemy | Crafting | Create potions |
-| Carpentry | Crafting | Create furniture, staves, wooden items |
-| Bowcraft/Fletching | Crafting | Create bows, crossbows, arrows |
-| Tinkering | Crafting | Create tools, traps, jewelry |
-| Inscription | Crafting | Scribe scrolls; bonus spell damage |
-| Mining | Gathering | Extract ore from mountains |
-| Lumberjacking | Gathering | Chop wood; +damage bonus with axes |
-| Fishing | Gathering | Fish from water; special item drops |
-| Cartography | Exploration | Decode treasure maps |
-| Hiding | Stealth | Become hidden from view |
-| Stealth | Stealth | Move while hidden |
-| Detect Hidden | Detection | Find hidden creatures/players |
-| Stealing | Rogue | Steal items from packs |
-| Snooping | Rogue | Peek into other players' packs |
-| Lockpicking | Rogue | Open locked chests and doors |
-| Remove Trap | Rogue | Disarm trapped chests |
 | Poisoning | Combat | Apply poison to weapons |
-| Tracking | Exploration | Detect and follow creatures/players |
-| Arms Lore | Knowledge | Evaluate weapon/armour quality |
-| Forensic Evaluation | Knowledge | Examine corpses; identify criminals |
-| Focus | Supporting | Boosts mana regeneration and Mysticism |
-| Bushido | Advanced Combat | Japanese combat art; special moves |
-| Ninjitsu | Advanced Combat | Transformation and shadow techniques |
+| Magery | Magic | Cast power for the classic spell circle system |
+| Evaluate Intelligence | Magic | Spell damage bonus for Magery spells |
+| Meditation | Magic | Passive and active mana regeneration |
+| Resist Spells | Magic | Reduces damage and duration of enemy spells |
+| Necromancy | Magic | Dark spells — life drain, undead forms, wraith form |
+| Spirit Speak | Magic | Powers Necromancy; communicate with the dead |
+| Chivalry | Magic | Paladin magic — holy damage, healing, enemy debuffs |
+| Arcane | Magic | **Outlands-exclusive.** Arcane Staff combat; builds Arcane Buildup for spell/resist bonuses. Requires Magery + Wrestling. |
+| Animal Taming | Taming | Ability to tame and bond with creatures |
+| Animal Lore | Taming | Shows pet stats; boosts Veterinary effectiveness |
+| Veterinary | Taming | Heals pets with bandages; requires Animal Lore |
+| Herding | Wilderness | Move creatures around; mild combat utility |
+| Tracking | Wilderness | Detect and follow creatures or players |
+| Musicianship | Bard | Required base skill for all bard abilities |
+| Peacemaking | Bard | Pacify creatures; stop them attacking |
+| Provocation | Bard | Force creatures to fight each other |
+| Discordance | Bard | Weaken a creature's skills and stats |
+| Blacksmithy | Crafting | Create metal weapons and armour |
+| Tailoring | Crafting | Create leather and cloth armour and clothing |
+| Alchemy | Crafting | Brew potions (heal, strength, explosion, etc.) |
+| Carpentry | Crafting | Create furniture, staves, shields, wooden items |
+| Tinkering | Crafting | Create tools, traps, jewelry, gears |
+| Inscription | Crafting | Scribe spell scrolls; bonus spell damage |
+| Cooking | Crafting | Cook food for stat-boosting meals |
+| Mining | Gathering | Extract ore and gems from mountains |
+| Lumberjacking | Gathering | Chop wood; +damage bonus wielding axes |
+| Fishing | Gathering | Fish from water; chance for rare item drops |
+| Cartography | Exploration | Decode and use treasure maps |
+| Camping | Misc | Increases carry weight/item capacity; Hike fast travel; campfire logout; damage bonus |
+| Hiding | Stealth | Become hidden from sight |
+| Stealth | Stealth | Move while hidden |
+| Detect Hidden | Stealth | Reveal hidden creatures and players |
+| Stealing | Rogue | Steal items from other characters |
+| Snooping | Rogue | Peek inside other players' packs |
+| Lockpicking | Rogue | Open locked chests and doors |
+| Arms Lore | Knowledge | Evaluate weapon and armour quality |
+| Forensic Evaluation | Wilderness | Examine corpses; identify player killers |
+| Focus | Supporting | Boosts passive mana and stamina regeneration |
+| Begging | Misc | Request gold from NPCs; minor use |
+| Item Identification | Misc | Identify unknown items |
+| Taste Identification | Misc | Detect poison in food and drink |
 
 ---
 
@@ -1009,29 +1013,6 @@ Necromancy is UO's dark magic system. It specialises in life manipulation, undea
 
 ---
 
-### ⚡ Mysticism — The Elemental Art
-
-A newer magic system with unique elemental damage, area control, and support abilities. Mysticism uses Focus instead of Meditation as its supporting skill.
-
-**Supporting skill:** Focus (not Meditation — this is important for template design)
-
-**Key Spells:**
-
-| Spell | Effect |
-|---|---|
-| Nether Bolt | Fast, reliable dark damage; main combat spell |
-| Healing Stone | Create a stone that heals the user when double-clicked; deployable |
-| Cleansing Winds | AOE heal centred on caster; heals you and nearby allies |
-| Enchant | Temporarily add elemental damage to a weapon |
-| Stone Form | Transform: enormous armour bonus and physical resistance; reduced movement speed |
-| Bombard | Ranged physical damage; knocks target back |
-| Hail Storm | AOE cold damage field at target location |
-| Nether Cyclone | AOE dark damage; interrupts casting |
-| Rising Colossus | Summon a powerful earth elemental construct; its power scales with Focus skill |
-
-*Mysticism excels at area control and providing group support through Cleansing Winds. The Rising Colossus is one of the strongest single summons in any magic school.*
-
----
 
 ### ✨ Chivalry — The Paladin Art
 
@@ -1065,35 +1046,24 @@ Holy magic. Chivalry provides combat enhancement, self-healing, and some offensi
 
 ---
 
-### 🌿 Spellweaving — The Nature Art
 
-Spellweaving is a group-oriented magic system. A solo Spellweaver is decent. A coordinated group of Spellweavers is devastating.
+### 🔮 Arcane — The Outlands-Exclusive Art
 
-**Supporting skill:** Focus (like Mysticism)
+**Arcane** is unique to UO Outlands and does not exist in retail UO. It transforms the Arcane Staff into a hybrid melee/magic weapon system.
 
-**The Arcane Focus Mechanic:**
-Before using Spellweaving, players gather in a circle and cast **Summon Fey** — each participant adds to the group's "Arcane Focus Level" (1–6). Higher Focus Level = more powerful spells.
+**How it works:**
+- You wield an **Arcane Staff** and build up **Arcane Buildup** by landing hits on enemies
+- Buildup grants stacking **spell damage** and **damage resistance** bonuses
+- At high buildup you unlock **Stances** and powerful **Finishers** via your Arcane Codex
 
-- Level 1: Solo or small group; base power
-- Level 4–5: Coordinated group; significantly enhanced
-- Level 6: Maximum power; some spells become fundamentally different
+**Requirements to use effectively:**
+- 80+ Arcane, 80+ Magery, 80+ Wrestling (all three)
+- Cannot use pets or bard skills (resets buildup)
+- Must stand still 0.5s before firing spells
 
-**Key Spells:**
+**Template:** Arcane (100) + Magery (100) + Eval Int (100) + Meditation (100) + Wrestling (80) + Resist Spells (80) + Anatomy (80) = **640 skill points**
 
-| Spell | Effect |
-|---|---|
-| Arcane Empowerment | Temporary massive boost to all skills and stats for nearby allies |
-| Reaper Form | Transform: increased casting speed and spell damage; reduced physical protection |
-| Wildfire | AOE fire field at target location; persists and burns everything that enters |
-| Nature's Fury | Summon a powerful fey creature |
-| Gift of Life | Reserve healing; triggers automatically when target would die |
-| Dryad Allure | Charm a creature temporarily |
-| Ethereal Voyage | Temporary invisibility and increased movement speed |
-| Word of Death | Instantly kills a creature below 30% HP — devastating execute |
-
-*Word of Death is one of the most satisfying abilities in the game. Weaken a boss to below 30%, speak the word, watch it drop. No cooldown other than the spell cost.*
-
----
+**Why play Arcane?** It rewards precise, stationary combat with extreme burst damage — the highest single-target spell damage ceiling in Outlands at the cost of mobility and flexibility.
 
 ## 🐉 Animal Taming
 
@@ -1322,11 +1292,11 @@ Inscribed scrolls are single-use versions of spells. Tamers use Recall scrolls t
 
 ---
 
-### Carpentry, Bowcraft & Tinkering
+### Carpentry, Tinkering *(Bowcraft is inactive in Outlands)*
 
 **Carpentry:** Creates furniture (for housing), wooden shields, staves, and quarterstaff weapons. Crafted furniture for housing is a steady income source for dedicated carpenters.
 
-**Bowcraft/Fletching:** Creates bows, crossbows, and ammunition. Archers consume arrows and bolts constantly — this is a high-volume, steady-income craft.
+**Bowcraft *(inactive in Outlands — bows crafted by Tinkering)*:** Creates bows, crossbows, and ammunition. Archers consume arrows and bolts constantly — this is a high-volume, steady-income craft.
 
 | Ammunition | Bow Type | Notes |
 |---|---|---|
