@@ -15,6 +15,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/thumb/5/5f/outlandsy3logo2.png/300px-outlandsy3logo2.png" alt="UO Outlands" width="300" />
+</div>
+
 > **Welcome to Avadon. Leave your hand-holding expectations at the door.**
 >
 > Ultima Online: Outlands is the definitive free-to-play UO experience — a lovingly crafted private shard that captures everything that made the original Ultima Online legendary, then expands on it with years of custom content, balance passes, and community-driven design. This is not a casual game. It will let you fail spectacularly, lose everything, and come back for more. That's the point.
