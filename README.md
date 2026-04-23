@@ -1,19 +1,37 @@
 # The Most Comprehensive Ultima Online: Outlands Guide for 2026
 
-[![Stars](https://img.shields.io/github/stars/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&color=gold)](https://github.com/hardlygospel/uo-outlands-2026-guide/stargazers) [![Forks](https://img.shields.io/github/forks/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&color=blue)](https://github.com/hardlygospel/uo-outlands-2026-guide/network/members) [![Issues](https://img.shields.io/github/issues/hardlygospel/uo-outlands-2026-guide?style=for-the-badge)](https://github.com/hardlygospel/uo-outlands-2026-guide/issues) [![Last Commit](https://img.shields.io/github/last-commit/hardlygospel/uo-outlands-2026-guide?style=for-the-badge)](https://github.com/hardlygospel/uo-outlands-2026-guide/commits) [![License](https://img.shields.io/github/license/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&color=green)](https://github.com/hardlygospel/uo-outlands-2026-guide/blob/main/LICENSE) [![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen?style=for-the-badge)](https://github.com/hardlygospel/uo-outlands-2026-guide) [![Repo Size](https://img.shields.io/github/repo-size/hardlygospel/uo-outlands-2026-guide?style=for-the-badge)](https://github.com/hardlygospel/uo-outlands-2026-guide)
+<div align="center">
 
-> **Welcome to Sosaria. Leave your hand-holding expectations at the door.**
+[![Stars](https://img.shields.io/github/stars/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&color=gold&logo=github)](https://github.com/hardlygospel/uo-outlands-2026-guide/stargazers)
+[![Forks](https://img.shields.io/github/forks/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&color=blue&logo=github)](https://github.com/hardlygospel/uo-outlands-2026-guide/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&logo=git)](https://github.com/hardlygospel/uo-outlands-2026-guide/commits)
+[![License](https://img.shields.io/github/license/hardlygospel/uo-outlands-2026-guide?style=for-the-badge&color=green)](https://github.com/hardlygospel/uo-outlands-2026-guide/blob/main/LICENSE)
+[![Game](https://img.shields.io/badge/Game-UO%20Outlands-8B0000?style=for-the-badge)](https://uooutlands.com)
+[![Free to Play](https://img.shields.io/badge/Free%20to%20Play-100%25-brightgreen?style=for-the-badge)](https://uooutlands.com)
+[![PvP Style](https://img.shields.io/badge/PvP-Full%20Loot-red?style=for-the-badge)](https://wiki.uooutlands.com/PvP)
+[![No Classes](https://img.shields.io/badge/Classes-None%20%E2%80%94%20Skill%20Based-blueviolet?style=for-the-badge)](https://wiki.uooutlands.com/Skills)
+[![Guide Year](https://img.shields.io/badge/Guide%20Year-2026-orange?style=for-the-badge)](https://github.com/hardlygospel/uo-outlands-2026-guide)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)](https://github.com/hardlygospel/uo-outlands-2026-guide)
+
+</div>
+
+<div align="center">
+<img src="https://uooutlands.com/wp-content/uploads/2019/03/cropped-uooutlands_logo_main-1.png" alt="UO Outlands" width="200" />
+</div>
+
+
+> **Welcome to Avadon. Leave your hand-holding expectations at the door.**
 >
 > Ultima Online: Outlands is the definitive free-to-play UO experience — a lovingly crafted private shard that captures everything that made the original Ultima Online legendary, then expands on it with years of custom content, balance passes, and community-driven design. This is not a casual game. It will let you fail spectacularly, lose everything, and come back for more. That's the point.
 >
-> This guide will take you from confused new arrival to seasoned veteran of Sosaria.
+> This guide will take you from confused new arrival to seasoned veteran of Avadon.
 
 ---
 
 ## Table of Contents
 
 1. [What Is UO Outlands?](#what-is-uo-outlands)
-2. [The Lore — History of Sosaria](#the-lore--history-of-sosaria)
+2. [The Lore — History of Avadon](#the-lore--history-of-sosaria)
 3. [Getting Started — Installation & First Steps](#getting-started)
 4. [The Skill System — The Heart of Ultima Online](#the-skill-system)
 5. [Stats — Strength, Dexterity, Intelligence](#stats)
@@ -29,7 +47,7 @@
 15. [Dungeon Maps — The Instanced System](#dungeon-maps)
 16. [Champion Spawns](#champion-spawns)
 17. [The Reputation System — Fame & Karma](#the-reputation-system)
-18. [Housing — Your Home in Sosaria](#housing)
+18. [Housing — Your Home in Avadon](#housing)
 19. [Guilds & Guild Wars](#guilds--guild-wars)
 20. [PvP — Full Loot, No Mercy](#pvp)
 21. [The UI & Essential Controls](#ui--essential-controls)
@@ -41,7 +59,7 @@
 
 ---
 
-## What Is UO Outlands?
+## 🏰 What Is UO Outlands?
 
 Ultima Online: Outlands is a completely free, fan-run private server for Ultima Online — the 1997 MMORPG that invented or popularised many conventions modern games take for granted: persistent worlds, player housing, skill-based progression, a fully player-driven economy, and full-loot PvP. Outlands launched in 2019 and has grown into one of the most populated and most respected UO shards in the world, consistently maintaining thousands of active players.
 
@@ -52,7 +70,7 @@ Ultima Online: Outlands is a completely free, fan-run private server for Ultima 
 Most private UO servers are attempts to recreate the "classic" experience of a specific era. Outlands is something else entirely — a new game built on UO's engine and philosophy, with a custom world, custom content, and years of original development on top of the original systems.
 
 - **Completely free to play** — zero cost, zero subscriptions, zero pay-to-win
-- **Custom world** — the continent of Sosaria, built entirely from scratch with unique dungeons, cities, and wilderness
+- **Custom world** — the continent of Avadon, built entirely from scratch with unique dungeons, cities, and wilderness
 - **No classes, no levels** — your character is defined entirely by the skills you choose to train
 - **Full loot PvP** — outside guarded towns, death means everything in your backpack can be looted by your killer
 - **Player-driven economy** — every sword, every suit of armour, every potion comes from a player crafter
@@ -71,19 +89,19 @@ Ultima Online came out in 1997. It's older than many of the people playing it. A
 
 ---
 
-## The Lore — History of Sosaria
+## 📜 The Lore — History of Avadon
 
 Understanding the world makes Outlands richer. This is the story of where you are and why it matters.
 
 ### The Ancient World
 
-Sosaria is the name of the world — a continent of mountains, forests, swamps, and dungeons. In the age before recorded history, the continent was shaped by powerful magical forces and inhabited by creatures of immense power. The eight great dungeons of Sosaria are remnants of this age — places where ancient evils were imprisoned, forgotten, or simply left to fester.
+Avadon is the name of the world — a continent of mountains, forests, swamps, and dungeons. In the age before recorded history, the continent was shaped by powerful magical forces and inhabited by creatures of immense power. The eight great dungeons of Avadon are remnants of this age — places where ancient evils were imprisoned, forgotten, or simply left to fester.
 
-The **Virtues** — Honesty, Compassion, Valour, Justice, Sacrifice, Honour, Spirituality, Humility — are the philosophical pillars that the human civilisation of Sosaria was built around. The eight cities of the main world each correspond to a virtue. This isn't mere decoration — the Virtue system has mechanical implications for your character's Fame and Karma.
+The **Virtues** — Honesty, Compassion, Valour, Justice, Sacrifice, Honour, Spirituality, Humility — are the philosophical pillars that the human civilisation of Avadon was built around. The eight cities of the main world each correspond to a virtue. This isn't mere decoration — the Virtue system has mechanical implications for your character's Fame and Karma.
 
 ### The Cities & Their Histories
 
-**Britain** — Capital of Sosaria and seat of Lord British, the legendary ruler who united the human kingdoms. Britain is the economic heart of the world: the largest market, the busiest bank steps, and the social centre where adventurers converge to buy, sell, recruit, and gossip. The city corresponds to the Virtue of Compassion.
+**Britain** — Capital of Avadon and seat of Lord British, the legendary ruler who united the human kingdoms. Britain is the economic heart of the world: the largest market, the busiest bank steps, and the social centre where adventurers converge to buy, sell, recruit, and gossip. The city corresponds to the Virtue of Compassion.
 
 **Trinsic** — The city of Honour, home to the paladins. A walled, military city in the south, Trinsic has a long history of holding the line against the dark creatures that press from the south. Players who follow the path of Chivalry feel a natural draw to Trinsic.
 
@@ -93,7 +111,7 @@ The **Virtues** — Honesty, Compassion, Valour, Justice, Sacrifice, Honour, Spi
 
 **Yew** — Deep in the western forests, Yew is the city of Justice. Its great courtroom and jail are infamous. The druids of Yew are powerful, and the forest around the city hides dangers and treasures in equal measure.
 
-**Moonglow** — The mage city, built on an island to the east, accessible only by ship or magic. Moonglow is the centre of magical learning in Sosaria. The best reagents and spellbooks come from Moonglow's markets.
+**Moonglow** — The mage city, built on an island to the east, accessible only by ship or magic. Moonglow is the centre of magical learning in Avadon. The best reagents and spellbooks come from Moonglow's markets.
 
 **Skara Brae** — Island city of the bards, accessible by ferry. Skara Brae corresponds to Spirituality and is the home of the Bardic Arts — Musicianship, Peacemaking, Provocation, Discordance. Its taverns are famous.
 
@@ -101,7 +119,7 @@ The **Virtues** — Honesty, Compassion, Valour, Justice, Sacrifice, Honour, Spi
 
 ### The Dungeons' Origins
 
-Each major dungeon in Sosaria has history:
+Each major dungeon in Avadon has history:
 
 **Despise** — Once the stronghold of an ancient warlord who sought to raise an army of ogres and trolls. He was defeated but the creatures remain, leaderless and territorial.
 
@@ -115,11 +133,11 @@ Each major dungeon in Sosaria has history:
 
 **Hythloth** — Demon gates. Hythloth was a religious site corrupted by summoning magic. The things that came through sealed it from the inside.
 
-**Doom** — The dungeon no one has fully mapped. Doom is where the most ancient and powerful creatures dwell — things that survive because nothing in Sosaria is strong enough to challenge them.
+**Doom** — The dungeon no one has fully mapped. Doom is where the most ancient and powerful creatures dwell — things that survive because nothing in Avadon is strong enough to challenge them.
 
 ---
 
-## Getting Started
+## 🚪 Getting Started
 
 ### Installation
 
@@ -146,9 +164,9 @@ Character creation presents a name field and a starting template. **Don't stress
 
 ### Your First Hour
 
-The game drops you in Britain. Here is exactly what to do:
+The game drops you on **Shelter Island** — a safe starter zone. New characters have **Young Player** status for their first 48 hours, which protects them from PvP and most monster aggression. Take your time here — it's the only safe space. Here is exactly what to do:
 
-1. **Find the New Player NPC** near the bank — they give you starter equipment, gold, and a brief explanation of the basics
+1. **Talk to the New Player Guide NPC** on Shelter Island — they give you starter equipment, explain the basics, and point you toward the starter quest chain, gold, and a brief explanation of the basics
 2. **Open your Skills window** with `Alt+S` or by clicking the Skills button on your paperdoll
 3. **Understand the skill locks** — every skill has an up arrow, down arrow, or lock. Skills set to up (↑) will gain when used. Skills set to down (↓) will lose. This is the most important mechanic to understand immediately.
 4. **Find the training dummies** near the fighter's guild in Britain — attack them to begin training your weapon skill to 30 for free
@@ -168,7 +186,7 @@ From Britain shops and player vendors, prioritise:
 
 ---
 
-## The Skill System
+## 📊 The Skill System
 
 This is the entire design philosophy of Ultima Online compressed into one mechanic. There are no character levels. There are no experience bars. There are no classes. There is only your skill set — a collection of skills you've earned by using them, capped at 700 total points.
 
@@ -311,7 +329,7 @@ Equipping items with stat bonuses (like rings, bracelets, and special armour pie
 
 ---
 
-## Character Templates
+## ⚔️ Character Templates
 
 A "template" is your chosen combination of skills. Think of it as a class you build yourself. The community has named common combinations, but there are no rules — experimentation is encouraged.
 
@@ -319,7 +337,7 @@ A "template" is your chosen combination of skills. Think of it as a class you bu
 
 ---
 
-### Warrior Templates
+### 🗡️ Warrior Templates
 
 **Pure Swordsman** — The beginner's foundation. Self-sufficient, straightforward, effective from day one.
 
@@ -414,7 +432,7 @@ Total:             700
 
 ---
 
-### Archer Templates
+### 🏹 Archer Templates
 
 **Classic Archer** — Ranged DPS with escape options. Safe playstyle.
 
@@ -473,7 +491,7 @@ Total:             700
 
 ---
 
-### Mage Templates
+### 🔮 Mage Templates
 
 **Classic Battle Mage** — Reliable, proven, effective in all content.
 
@@ -548,7 +566,7 @@ Total:             700
 
 ---
 
-### Tamer Templates
+### 🐉 Tamer Templates
 
 Taming is the most powerful and most demanding playstyle in Outlands. Your pets do the actual killing while you direct and heal them. A skilled tamer is nearly unstoppable in PvE content.
 
@@ -610,7 +628,7 @@ Total:             700
 
 ---
 
-### Bard Templates
+### 🎶 Bard Templates
 
 Bards use music to control and manipulate creatures. They are perhaps the most unique playstyle in UO — you deal no direct damage yourself, but you reshape the battlefield.
 
@@ -639,9 +657,9 @@ Total:             720 (trim 20 points as needed)
 
 ---
 
-### Crafter Templates
+### 🔨 Crafter Templates
 
-Crafters are the backbone of Sosaria's economy. Every piece of equipment comes from a player crafter. The best gear in the game — exceptional Valorite plate, barbed leather armour, runic-crafted weapons — comes from dedicated crafters who've mastered their trade.
+Crafters are the backbone of Avadon's economy. Every piece of equipment comes from a player crafter. The best gear in the game — exceptional Valorite plate, barbed leather armour, runic-crafted weapons — comes from dedicated crafters who've mastered their trade.
 
 **Master Blacksmith / Miner**
 
@@ -701,7 +719,7 @@ Total:             700
 
 ---
 
-### Thief/Rogue Templates
+### 🗝️ Thief/Rogue Templates
 
 **Classic Thief** — Stealth, theft, and survival.
 
@@ -718,11 +736,11 @@ Arms Lore           60   — Evaluate items worth stealing
 Total:             700
 ```
 
-*Play as:* The social disruptor of Sosaria. Thieves steal items directly from other players' backpacks in PvP zones, loot unguarded chests, and slip through the world unseen. High risk — being caught stealing gives you criminal flagging and makes guards hostile. High reward — a skilled thief can acquire items worth enormous gold without ever fighting for them.
+*Play as:* The social disruptor of Avadon. Thieves steal items directly from other players' backpacks in PvP zones, loot unguarded chests, and slip through the world unseen. High risk — being caught stealing gives you criminal flagging and makes guards hostile. High reward — a skilled thief can acquire items worth enormous gold without ever fighting for them.
 
 ---
 
-## Combat
+## 🗡️ Combat
 
 ### How Melee Combat Works
 
@@ -829,13 +847,13 @@ Each armour piece shows its resist values. The total from your equipped set is y
 
 ---
 
-## Magic Systems
+## 🔮 Magic Systems
 
 Outlands supports five distinct magic systems. Each has its own feel, strengths, and supporting skill requirements.
 
 ---
 
-### Magery — The Classic System
+### 🔵 Magery — The Classic System
 
 The backbone of UO magic. Eight circles of spells, from basic utility to endgame devastation. Magery is the most versatile magic system — it provides transport (Recall, Gate), healing (Heal, Greater Heal, Cure), combat damage, and utility.
 
@@ -878,7 +896,7 @@ The backbone of UO magic. Eight circles of spells, from basic utility to endgame
 
 ---
 
-### Necromancy — The Dark Art
+### ☠️ Necromancy — The Dark Art
 
 Necromancy is UO's dark magic system. It specialises in life manipulation, undead control, and transformations that shift your play into entirely different modes.
 
@@ -910,7 +928,7 @@ Necromancy is UO's dark magic system. It specialises in life manipulation, undea
 
 ---
 
-### Mysticism — The Elemental Art
+### ⚡ Mysticism — The Elemental Art
 
 A newer magic system with unique elemental damage, area control, and support abilities. Mysticism uses Focus instead of Meditation as its supporting skill.
 
@@ -934,7 +952,7 @@ A newer magic system with unique elemental damage, area control, and support abi
 
 ---
 
-### Chivalry — The Paladin Art
+### ✨ Chivalry — The Paladin Art
 
 Holy magic. Chivalry provides combat enhancement, self-healing, and some offensive capability against evil creatures.
 
@@ -961,7 +979,7 @@ Holy magic. Chivalry provides combat enhancement, self-healing, and some offensi
 
 ---
 
-### Spellweaving — The Nature Art
+### 🌿 Spellweaving — The Nature Art
 
 Spellweaving is a group-oriented magic system. A solo Spellweaver is decent. A coordinated group of Spellweavers is devastating.
 
@@ -991,7 +1009,7 @@ Before using Spellweaving, players gather in a circle and cast **Summon Fey** �
 
 ---
 
-## Animal Taming
+## 🐉 Animal Taming
 
 Taming is the most powerful — and most time-demanding — playstyle in Outlands. Your pets are not just companions; they are weapons, tanks, and income generators.
 
@@ -1008,7 +1026,7 @@ Animal Taming is notoriously slow to raise. The standard method:
 
 This process takes weeks of active play. Many players use a dedicated "macro" setup — keep the taming attempt going while nearby. The gains are slow but inevitable.
 
-### Bonding
+### ❤️ Bonding
 
 Once tamed, a pet must be **bonded** before it achieves permanent status:
 - Feed the pet daily for **7 real days**
@@ -1031,7 +1049,7 @@ Every pet uses control slots. Your available slots scale with Taming skill:
 
 Keeping pets that fit your slot budget is essential. A 100-taming character can control one Greater Dragon (4 slots) plus one small pet, or two White Wyrms (4 slots combined), etc.
 
-### Pet Tier List (2026)
+### 🏆 Pet Tier List (2026)
 
 **S-Tier — End-game pets:**
 
@@ -1090,11 +1108,11 @@ Set all of these as macros — typing mid-combat is too slow.
 
 ---
 
-## Crafting
+## 🔨 Crafting
 
 Every item a player uses — every sword, every suit of armour, every potion — was made by another player. There are no "best in slot" drops that make crafting obsolete. The best gear in the game is crafted, by players who've mastered their trade.
 
-### Blacksmithing
+### 🔩 Blacksmithing
 
 Blacksmiths create the metal weapons and armour that every warrior, paladin, and many other templates rely on.
 
@@ -1128,7 +1146,7 @@ High-end content occasionally drops Runic Hammers — tools that, when used to c
 
 ---
 
-### Tailoring
+### 🧵 Tailoring
 
 Tailors create leather and cloth armour — the preferred defence for mages, archers, tamers, and any template relying on unimpeded mana regeneration.
 
@@ -1150,7 +1168,7 @@ Barbed leather armour crafted by a GM Tailor is the definitive armour for mages 
 
 ---
 
-### Alchemy
+### ⚗️ Alchemy
 
 Alchemists create potions. Every active player consumes potions constantly — the demand never stops.
 
@@ -1179,7 +1197,7 @@ Alchemists create potions. Every active player consumes potions constantly — t
 
 ---
 
-### Inscription
+### 📝 Inscription
 
 Inscription allows mages to scribe spell scrolls and provides a unique combat bonus.
 
@@ -1212,7 +1230,7 @@ Inscribed scrolls are single-use versions of spells. Tamers use Recall scrolls t
 
 ---
 
-## Resources & Gathering
+## ⛏️ Resources & Gathering
 
 ### Mining
 
@@ -1244,7 +1262,7 @@ At GM Lumberjacking (100), the damage bonus with axes is significant — enough 
 
 ---
 
-### Fishing
+### 🎣 Fishing
 
 Fishing is a gathering skill that most new players overlook. It provides:
 - **Fish** — used in cooking; food buffs
@@ -1259,9 +1277,9 @@ Fishing is a gathering skill that most new players overlook. It provides:
 
 ---
 
-## Ways to Make Gold
+## 💰 Ways to Make Gold
 
-### Monster Hunting (PvM)
+### 💀 Monster Hunting (PvM)
 
 The foundation of most players' income. Kill creatures, loot their gold and items, sell to vendors or other players.
 
@@ -1296,7 +1314,7 @@ The foundation of most players' income. Kill creatures, loot their gold and item
 
 ---
 
-### Treasure Hunting
+### 🗺️ Treasure Hunting
 
 Treasure Maps drop from monsters. Decode them with Cartography, locate the spot on the map, dig with a shovel, and fight the guardians that spawn.
 
@@ -1335,7 +1353,7 @@ A GM crafter with access to high-tier materials can generate consistent, reliabl
 
 ---
 
-### Bard Farming
+### 🎵 Bard Farming
 
 Provoke powerful monsters onto each other. Watch them fight. Loot the winner's victim.
 
@@ -1353,7 +1371,7 @@ A skilled bard can farm Destard solo with virtually no combat risk. The gold and
 
 ---
 
-### Tamer Farming
+### 🐲 Tamer Farming
 
 The strongest sustained PvM income at endgame. A Greater Dragon tamer in Doom Dungeon is the benchmark for maximum PvM income.
 
@@ -1364,7 +1382,7 @@ The strongest sustained PvM income at endgame. A Greater Dragon tamer in Doom Du
 
 ---
 
-### Champion Spawns
+### 👑 Champion Spawns
 
 Champion Spawns are large-scale PvE events — a pulsing Altar appears in a dedicated area, and killing creatures around it builds "levels" through multiple waves, culminating in a Champion Boss that is far more powerful than standard creatures.
 
@@ -1380,7 +1398,7 @@ Champion Spawns are large-scale PvE events — a pulsing Altar appears in a dedi
 
 ---
 
-### Player Vending
+### 🛒 Player Vending
 
 Place vendors at your house (requires a house with vendor slots). Stock them with crafted goods, potions, or rare items. Collect gold passively.
 
@@ -1399,7 +1417,7 @@ Place vendors at your house (requires a house with vendor slots). Stock them wit
 
 ---
 
-## The Auction House & Player Economy
+## 🏛️ The Auction House & Player Economy
 
 The Outlands Auction House is the primary secondary market for rare, valuable, and hard-to-price items.
 
@@ -1426,7 +1444,7 @@ Before crafting or farming, check:
 
 ### The Economy's Structure
 
-Sosaria's economy has clear tiers:
+Avadon's economy has clear tiers:
 
 **High demand, always selling:**
 - Healing and cure potions
@@ -1447,9 +1465,9 @@ Sosaria's economy has clear tiers:
 
 ---
 
-## Dungeons & Exploration
+## 🗺️ Dungeons & Exploration
 
-### The World of Sosaria
+### The World of Avadon
 
 Outlands' custom map has eight major cities connected by wilderness full of creatures, ruins, and secrets. The wilderness isn't safe — monsters roam, and other players can attack you in most areas.
 
@@ -1558,7 +1576,7 @@ Outlands' custom map has eight major cities connected by wilderness full of crea
 
 ---
 
-## Dungeon Maps — The Instanced System
+## 🗝️ Dungeon Maps — The Instanced System
 
 Outlands adds a unique layer on top of standard dungeon content: **Dungeon Maps** that create private instanced encounters.
 
@@ -1580,7 +1598,7 @@ Maps drop at different quality levels corresponding to dungeon difficulty. Highe
 
 ---
 
-## Champion Spawns
+## 👑 Champion Spawns
 
 Champion Spawns are the closest thing Outlands has to raid content. They are not instanced — anyone can join, and PvP over them is common.
 
@@ -1620,9 +1638,9 @@ Champion Spawns attract competition. PvP guilds often patrol spawn areas looking
 
 ---
 
-## The Reputation System — Fame & Karma
+## ⚖️ The Reputation System — Fame & Karma
 
-Your character's reputation in Sosaria is tracked through two values: Fame and Karma.
+Your character's reputation in Avadon is tracked through two values: Fame and Karma.
 
 ### Fame
 
@@ -1672,7 +1690,7 @@ Murder counts decay over time (several in-game days per count) — but until the
 
 ---
 
-## Housing
+## 🏡 Housing
 
 Your house is your bank, your crafting station, your vendor location, and your base of operations. It's one of the most satisfying achievements in Outlands.
 
@@ -1716,7 +1734,7 @@ Houses that are not regularly accessed slowly decay. A neglected house will even
 
 ---
 
-## Guilds & Guild Wars
+## 🛡️ Guilds & Guild Wars
 
 Guilds are the social and competitive backbone of Outlands. Almost every serious player eventually joins one.
 
@@ -1759,7 +1777,7 @@ Guild wars are the structured PvP of Outlands — they give players a way to eng
 
 ---
 
-## PvP — Full Loot, No Mercy
+## 💥 PvP — Full Loot, No Mercy
 
 Ultima Online invented full-loot PvP. Outlands carries that tradition. When you die in the wilderness, your killer can take everything in your backpack. This creates stakes unlike anything in modern games.
 
@@ -1835,7 +1853,7 @@ Outlands has a distinct culture around PvP that new players should understand:
 
 ---
 
-## UI & Essential Controls
+## 🖥️ UI & Essential Controls
 
 ### The Paperdoll
 
@@ -1874,7 +1892,7 @@ The bar showing your HP, Mana, and Stamina in real time:
 
 ---
 
-## Macros — The Competitive Edge
+## ⌨️ Macros — The Competitive Edge
 
 Macros are the difference between surviving and dying in tough situations. Every experienced player has a full hotkey suite. Build yours before you need it.
 
@@ -1930,7 +1948,7 @@ Some macros benefit from adding delays between actions. A potion macro with a 1.
 
 ---
 
-## Essential Shortcuts & Commands
+## 📋 Essential Shortcuts & Commands
 
 ### Combat Controls
 
@@ -1981,7 +1999,7 @@ Some macros benefit from adding delays between actions. A potion macro with a 1.
 
 ---
 
-## Progression Guide
+## 📅 Progression Guide
 
 ### Days 1–3: Getting Your Feet Under You
 
@@ -2058,7 +2076,7 @@ These are the benchmarks of a truly established Outlands character:
 
 ---
 
-## Seasonal Events & Server Culture
+## 🎉 Seasonal Events & Server Culture
 
 ### Seasonal Events
 
@@ -2097,7 +2115,7 @@ Outlands has an active Discord server, a community wiki, and official forums. Th
 
 ---
 
-## Tips, Tricks & Common Mistakes
+## 💡 Tips, Tricks & Common Mistakes
 
 ### Do These Immediately
 
@@ -2142,11 +2160,11 @@ Outlands has an active Discord server, a community wiki, and official forums. Th
 
 ---
 
-## Final Words
+## 🏰 Final Words
 
 Ultima Online: Outlands is not a game that will hold your hand. It will let you make every possible mistake, lose everything you own, and die in ways you didn't see coming. It will also give you moments of triumph that few games can match — killing a dragon that's been terrorising your guild, crafting a suit of Valorite plate that takes someone's breath away, winning a 1v1 fight against a far more experienced player through clever use of systems you spent weeks understanding.
 
-The world of Sosaria is alive because its players make it so. The economy exists because crafters work it. The dungeons are dangerous because other players are in them. The champion spawns are contested because the rewards matter. Nothing here is artificial — it's all real because real people care about it.
+The world of Avadon is alive because its players make it so. The economy exists because crafters work it. The dungeons are dangerous because other players are in them. The champion spawns are contested because the rewards matter. Nothing here is artificial — it's all real because real people care about it.
 
 Your character is what you build it to be. Your reputation is what you earn. Sosaria doesn't care who you were in other games — it only knows what you do here.
 
@@ -2158,7 +2176,7 @@ Your character is what you build it to be. Your reputation is what you earn. Sos
 
 ---
 
-## Licence
+## 📄 Licence
 
 This project is licensed under the **GNU General Public License v3.0**.
 
