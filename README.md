@@ -563,43 +563,67 @@ Power Scrolls are among the most valuable items in the game — a 110 Swordsmans
 
 ## Stats
 
-Three stats define your character's physical capability. Unlike skills, stats are harder to train and change more slowly.
+Three stats define your character's physical capability. Unlike skills, stats raise slowly and require deliberate effort to push to their caps.
 
 ### The Three Stats
 
 **Strength (STR)**
-- Determines your **maximum Hit Points** (HP = STR/2 + 50 at full stat, roughly)
+- Determines your **maximum Hit Points**
 - Affects **carrying capacity** — how much weight you can carry
-- Higher Strength = heavier armour available without penalty
-- Increases with physical combat activity
+- Higher Strength lets you wear heavier armour without a stamina penalty
+- Raised by: physical combat skills (Swordsmanship, Mace Fighting, Fencing, Wrestling, Tactics, Anatomy, Healing), heavy crafting (Blacksmithy, Mining, Lumberjacking, Carpentry), and Camping
 
 **Dexterity (DEX)**
 - Determines your **maximum Stamina**
-- Affects **attack speed** — higher DEX = swing faster
-- Affects **bandage healing speed** — higher DEX = faster heal ticks
-- Increases with movement, physical actions, archery
+- Affects **attack speed** — higher DEX = faster swings
+- Affects **bandage healing speed** — caps out at 100 DEX
+- Raised by: ranged and agile skills (Archery, Stealing, Hiding, Stealth, Poisoning, Lockpicking), bard skills (Musicianship, Provocation, Discordance, Peacemaking), Tailoring, Tracking, and Camping
 
 **Intelligence (INT)**
 - Determines your **maximum Mana**
-- Higher INT = more mana for spells and special moves
-- Essential for all casters
-- Increases with magic use
+- Essential for every caster template
+- Raised by: all magic skills (Magery, Evaluate Intelligence, Meditation, Resist Spells, Necromancy, Spirit Speak, Chivalry, Arcane, Inscription), Alchemy, Animal Lore, and Camping
 
 ### Stat Cap
 
-The total of all three stats is capped at **225** for new characters, with individual stat caps of **100** each. Advanced characters can push higher through equipment bonuses.
+| Stat | Individual Cap | Total Cap |
+|---|---|---|
+| Strength | 100 | — |
+| Dexterity | 100 | — |
+| Intelligence | 100 | — |
+| **All combined** | — | **225** |
+
+New characters begin with **160 stat points** distributed at creation. The remaining 65 points are gained through play.
 
 ### Raising Stats
 
-Stats raise slowly through using skills associated with them:
-- Physical combat → raises STR and DEX
-- Spellcasting → raises INT
-- Movement → raises DEX
+Stats raise passively as you use skills linked to them. The process is slow by design — here is how to push them efficiently:
 
-Equipping items with stat bonuses (like rings, bracelets, and special armour pieces) is the fastest way to boost stats in the short term.
+**Fastest method — Camping near a fire:**
+Camping raises all three stats (STR, DEX, and INT) simultaneously. To use this:
+1. Craft or buy **Kindling** (use a dagger on a tree)
+2. Double-click the kindling to start a campfire
+3. Stand near the fire for its full **10-minute** duration — you gain stats the whole time
+4. Your Camping skill must be set to **UP** (raising) in the skill menu, even if it is already at its cap
+5. Repeat. This is the single most time-efficient stat-raising method available to new characters
 
----
+**Training Hall on Shelter Island (AFK-safe):**
+The Shelter Island starter area has a **Training Hall** with Battle Trainers you can attack repeatedly. Hitting them raises combat skills *and* stats simultaneously. This is explicitly listed as an AFK-safe activity — set up a simple attack macro and let it run while you are away.
 
+**The arrow adjustment system:**
+Once your total stats approach 225, you can no longer freely gain a stat without losing one elsewhere. The character status window shows **arrows** (↑ ↓) next to each stat:
+- Set a stat to **↑** to gain it
+- Set a stat to **↓** to allow it to drop as the other rises
+- Set a stat to **—** (locked) to prevent it changing at all
+- This lets you deliberately shift your stat spread as your build evolves — for example, rebalancing from a STR-heavy new player spread to a INT-heavy caster spread
+
+**General tips:**
+- Never lock all three stats at once — you will stop gaining entirely
+- Raise the stat your template needs most first; the others can follow
+- Food buffs provide temporary stat bonuses but do not raise your permanent cap
+- Equipment (rings, bracelets, special armour) adds to your effective stat total without spending cap points — stack these early
+
+### Raising Stats
 ## ⚔️ Character Templates
 
 <div align="center">
