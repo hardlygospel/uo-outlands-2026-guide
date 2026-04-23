@@ -15,6 +15,11 @@
 
 </div>
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/thumb/5/5f/outlandsy3logo2.png/300px-outlandsy3logo2.png" alt="UO Outlands — the definitive free UO experience" width="320" />
+</div>
+
+
 > **Welcome to Avadon. Leave your hand-holding expectations at the door.**
 >
 > Ultima Online: Outlands is the definitive free-to-play UO experience — a lovingly crafted private shard that captures everything that made the original Ultima Online legendary, then expands on it with years of custom content, balance passes, and community-driven design. This is not a casual game. It will let you fail spectacularly, lose everything, and come back for more. That's the point.
@@ -91,6 +96,7 @@ Ultima Online came out in 1997. It's older than many of the people playing it. A
 </div>
 
 
+
 Understanding the world makes Outlands richer. This is the story of where you are and why it matters.
 
 ### The Ancient World
@@ -144,6 +150,7 @@ Each major dungeon in Avadon has history:
 </div>
 
 
+
 ### Installation
 
 1. Go to [uooutlands.com](https://uooutlands.com) and download the Outlands installer
@@ -194,8 +201,9 @@ From Britain shops and player vendors, prioritise:
 ## 📊 The Skill System
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/e/ef/skillmasterystuff.png" alt="Skill Mastery — the heart of UO Outlands" width="450" />
+<img src="https://wiki.uooutlands.com/images/e/ef/skillmasterystuff.png" alt="Skill Mastery — the heart of UO Outlands" width="500" />
 </div>
+
 
 
 This is the entire design philosophy of Ultima Online compressed into one mechanic. There are no character levels. There are no experience bars. There are no classes. There is only your skill set — a collection of skills you've earned by using them, capped at 700 total points.
@@ -342,8 +350,9 @@ Equipping items with stat bonuses (like rings, bracelets, and special armour pie
 ## ⚔️ Character Templates
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/7/7a/character-creation.jpg" alt="Character Creation — choose your path" width="500" />
+<img src="https://wiki.uooutlands.com/images/7/7a/character-creation.jpg" alt="Build your template — no classes, no limits" width="500" />
 </div>
+
 
 
 A "template" is your chosen combination of skills. Think of it as a class you build yourself. The community has named common combinations, but there are no rules — experimentation is encouraged.
@@ -353,6 +362,11 @@ A "template" is your chosen combination of skills. Think of it as a class you bu
 ---
 
 ### 🗡️ Warrior Templates
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/9/94/icon-combat.png" alt="The Warrior — frontliner of Avadon" width="120" />
+</div>
+
 
 **Pure Swordsman** — The beginner's foundation. Self-sufficient, straightforward, effective from day one.
 
@@ -449,6 +463,11 @@ Total:             700
 
 ### 🏹 Archer Templates
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/0/06/icon-wilderness.png" alt="The Archer — strikes from the shadows" width="120" />
+</div>
+
+
 **Classic Archer** — Ranged DPS with escape options. Safe playstyle.
 
 ```
@@ -507,6 +526,11 @@ Total:             700
 ---
 
 ### 🔮 Mage Templates
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/0/09/icon-magery.png" alt="The Mage — master of the arcane" width="120" />
+</div>
+
 
 **Classic Battle Mage** — Reliable, proven, effective in all content.
 
@@ -583,6 +607,11 @@ Total:             700
 
 ### 🐉 Tamer Templates
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/0/0b/tamingbestiary.png" alt="The Taming Bestiary — know your pets" width="420" />
+</div>
+
+
 Taming is the most powerful and most demanding playstyle in Outlands. Your pets do the actual killing while you direct and heal them. A skilled tamer is nearly unstoppable in PvE content.
 
 **Classic Tamer** — The standard. Extremely powerful in PvE.
@@ -645,6 +674,11 @@ Total:             700
 
 ### 🎶 Bard Templates
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/f/f1/icon-bard.png" alt="The Bard — controls the battlefield with music" width="120" />
+</div>
+
+
 Bards use music to control and manipulate creatures. They are perhaps the most unique playstyle in UO — you deal no direct damage yourself, but you reshape the battlefield.
 
 **Classic Bard** — Full bard utility suite.
@@ -673,6 +707,11 @@ Total:             720 (trim 20 points as needed)
 ---
 
 ### 🔨 Crafter Templates
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/6/68/crafting-blacksmithy.png" alt="The Crafter — backbone of the economy" width="380" />
+</div>
+
 
 Crafters are the backbone of Avadon's economy. Every piece of equipment comes from a player crafter. The best gear in the game — exceptional Valorite plate, barbed leather armour, runic-crafted weapons — comes from dedicated crafters who've mastered their trade.
 
@@ -736,6 +775,11 @@ Total:             700
 
 ### 🗝️ Thief/Rogue Templates
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/8/83/icon-thieving.png" alt="The Thief — shadow, cunning, and full pockets" width="120" />
+</div>
+
+
 **Classic Thief** — Stealth, theft, and survival.
 
 ```
@@ -760,6 +804,7 @@ Total:             700
 <div align="center">
 <img src="https://wiki.uooutlands.com/images/thumb/1/17/dungeonbanner-aegiskeep1.png/400px-dungeonbanner-aegiskeep1.png" alt="Aegis Keep — where warriors are forged" width="600" />
 </div>
+
 
 
 ### How Melee Combat Works
@@ -870,8 +915,9 @@ Each armour piece shows its resist values. The total from your equipped set is y
 ## 🔮 Magic Systems
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/9/99/magespellbook.gif" alt="The Mage's Spellbook" width="350" />
+<img src="https://wiki.uooutlands.com/images/9/99/magespellbook.gif" alt="The Mage's Spellbook — all five schools" width="360" />
 </div>
+
 
 
 Outlands supports five distinct magic systems. Each has its own feel, strengths, and supporting skill requirements.
@@ -879,6 +925,11 @@ Outlands supports five distinct magic systems. Each has its own feel, strengths,
 ---
 
 ### 🔵 Magery — The Classic System
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/9/99/magespellbook.gif" alt="The Magery Spellbook" width="320" />
+</div>
+
 
 The backbone of UO magic. Eight circles of spells, from basic utility to endgame devastation. Magery is the most versatile magic system — it provides transport (Recall, Gate), healing (Heal, Greater Heal, Cure), combat damage, and utility.
 
@@ -922,6 +973,11 @@ The backbone of UO magic. Eight circles of spells, from basic utility to endgame
 ---
 
 ### ☠️ Necromancy — The Dark Art
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/3/3a/bookofnecromancy.jpg" alt="The Book of Necromancy" width="360" />
+</div>
+
 
 Necromancy is UO's dark magic system. It specialises in life manipulation, undead control, and transformations that shift your play into entirely different modes.
 
@@ -978,6 +1034,11 @@ A newer magic system with unique elemental damage, area control, and support abi
 ---
 
 ### ✨ Chivalry — The Paladin Art
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/f/fe/bookofchivalry.jpg" alt="The Book of Chivalry" width="360" />
+</div>
+
 
 Holy magic. Chivalry provides combat enhancement, self-healing, and some offensive capability against evil creatures.
 
@@ -1037,8 +1098,9 @@ Before using Spellweaving, players gather in a circle and cast **Summon Fey** �
 ## 🐉 Animal Taming
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/0/0b/tamingbestiary.png" alt="Taming Bestiary — know your creatures" width="500" />
+<img src="https://wiki.uooutlands.com/images/d/d6/tamingwithcrook.jpg" alt="Taming your first creature" width="500" />
 </div>
+
 
 
 Taming is the most powerful — and most time-demanding — playstyle in Outlands. Your pets are not just companions; they are weapons, tanks, and income generators.
@@ -1141,8 +1203,9 @@ Set all of these as macros — typing mid-combat is too slow.
 ## 🔨 Crafting
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/6/68/crafting-blacksmithy.png" alt="Blacksmithy — the backbone of the economy" width="400" />
+<img src="https://wiki.uooutlands.com/images/5/5e/BS.jpg" alt="The Blacksmithing Interface" width="500" />
 </div>
+
 
 
 Every item a player uses — every sword, every suit of armour, every potion — was made by another player. There are no "best in slot" drops that make crafting obsolete. The best gear in the game is crafted, by players who've mastered their trade.
@@ -1183,6 +1246,11 @@ High-end content occasionally drops Runic Hammers — tools that, when used to c
 
 ### 🧵 Tailoring
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/5/5b/crafting-tailoring.png" alt="Tailoring Interface" width="380" />
+</div>
+
+
 Tailors create leather and cloth armour — the preferred defence for mages, archers, tamers, and any template relying on unimpeded mana regeneration.
 
 **The Tailoring Loop:**
@@ -1204,6 +1272,11 @@ Barbed leather armour crafted by a GM Tailor is the definitive armour for mages 
 ---
 
 ### ⚗️ Alchemy
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/e/ea/crafting-alchemy.png" alt="Alchemy Interface" width="380" />
+</div>
+
 
 Alchemists create potions. Every active player consumes potions constantly — the demand never stops.
 
@@ -1233,6 +1306,11 @@ Alchemists create potions. Every active player consumes potions constantly — t
 ---
 
 ### 📝 Inscription
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/c/cb/crafting-inscription.png" alt="Inscription Interface" width="380" />
+</div>
+
 
 Inscription allows mages to scribe spell scrolls and provides a unique combat bonus.
 
@@ -1268,11 +1346,17 @@ Inscribed scrolls are single-use versions of spells. Tamers use Recall scrolls t
 ## ⛏️ Resources & Gathering
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/0/06/icon-wilderness.png" alt="The Wilderness — gather, mine, fish" width="120" />
+<img src="https://wiki.uooutlands.com/images/9/90/resourcemap-miningupaspota.gif" alt="Mining resource map — find the richest veins" width="500" />
 </div>
 
 
+
 ### Mining
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/2/21/crafting-mining-smeltingore.png" alt="Smelting ore into ingots" width="420" />
+</div>
+
 
 **Required:** Pickaxe, Mining skill, nearby mountain or cave wall
 
@@ -1320,8 +1404,9 @@ Fishing is a gathering skill that most new players overlook. It provides:
 ## 💰 Ways to Make Gold
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/0/02/icon-trade.png" alt="Trade and Commerce" width="120" />
+<img src="https://wiki.uooutlands.com/images/0/02/icon-trade.png" alt="Gold and Trade — every path explored" width="120" />
 </div>
+
 
 
 ### 💀 Monster Hunting (PvM)
@@ -1469,6 +1554,7 @@ Place vendors at your house (requires a house with vendor slots). Stock them wit
 </div>
 
 
+
 The Outlands Auction House is the primary secondary market for rare, valuable, and hard-to-price items.
 
 ### Using the Auction House
@@ -1518,8 +1604,9 @@ Avadon's economy has clear tiers:
 ## 🗺️ Dungeons & Exploration
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/thumb/5/58/dungeonbanner-inferno1.png/400px-dungeonbanner-inferno1.png" alt="Inferno — one of Avadon's most deadly dungeons" width="600" />
+<img src="https://wiki.uooutlands.com/images/thumb/5/58/dungeonbanner-inferno1.png/400px-dungeonbanner-inferno1.png" alt="Inferno — one of Avadon's deadliest dungeons" width="600" />
 </div>
+
 
 
 ### The World of Avadon
@@ -1634,8 +1721,9 @@ Outlands' custom map has eight major cities connected by wilderness full of crea
 ## 🗝️ Dungeon Maps — The Instanced System
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/thumb/c/cb/dungeonbanner-newplayer.jpg/400px-dungeonbanner-newplayer.jpg" alt="Instanced Dungeon Maps — private content" width="600" />
+<img src="https://wiki.uooutlands.com/images/thumb/c/cb/dungeonbanner-newplayer.jpg/400px-dungeonbanner-newplayer.jpg" alt="The Instanced Dungeon Map System" width="600" />
 </div>
+
 
 
 Outlands adds a unique layer on top of standard dungeon content: **Dungeon Maps** that create private instanced encounters.
@@ -1663,6 +1751,7 @@ Maps drop at different quality levels corresponding to dungeon difficulty. Highe
 <div align="center">
 <img src="https://wiki.uooutlands.com/images/thumb/2/27/dungeonsbanner-time.jpg/400px-dungeonsbanner-time.jpg" alt="The Time Dungeon — endgame champion content" width="600" />
 </div>
+
 
 
 Champion Spawns are the closest thing Outlands has to raid content. They are not instanced — anyone can join, and PvP over them is common.
@@ -1706,8 +1795,9 @@ Champion Spawns attract competition. PvP guilds often patrol spawn areas looking
 ## ⚖️ The Reputation System — Fame & Karma
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/a/a9/fameandkarma.png" alt="Fame and Karma" width="450" />
+<img src="https://wiki.uooutlands.com/images/a/a9/fameandkarma.png" alt="Fame and Karma — your standing in Avadon" width="460" />
 </div>
+
 
 
 Your character's reputation in Avadon is tracked through two values: Fame and Karma.
@@ -1763,8 +1853,9 @@ Murder counts decay over time (several in-game days per count) — but until the
 ## 🏡 Housing
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/9/95/wiki-houses.png" alt="Housing in Avadon — your base of operations" width="500" />
+<img src="https://wiki.uooutlands.com/images/9/95/wiki-houses.png" alt="Your Home in Avadon" width="500" />
 </div>
+
 
 
 Your house is your bank, your crafting station, your vendor location, and your base of operations. It's one of the most satisfying achievements in Outlands.
@@ -1812,8 +1903,9 @@ Houses that are not regularly accessed slowly decay. A neglected house will even
 ## 🛡️ Guilds & Guild Wars
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/8/8a/guildbattlepage.jpg" alt="Guild Battle — organised PvP warfare" width="500" />
+<img src="https://wiki.uooutlands.com/images/8/8a/guildbattlepage.jpg" alt="Guild Battle — organised warfare" width="500" />
 </div>
+
 
 
 Guilds are the social and competitive backbone of Outlands. Almost every serious player eventually joins one.
@@ -1860,8 +1952,9 @@ Guild wars are the structured PvP of Outlands — they give players a way to eng
 ## 💥 PvP — Full Loot, No Mercy
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/8/83/icon-thieving.png" alt="PvP — full loot, no mercy" width="120" />
+<img src="https://wiki.uooutlands.com/images/thumb/0/05/dungeonbanner-shadowspirecathedral.png/400px-dungeonbanner-shadowspirecathedral.png" alt="Shadowspire Cathedral — PvP is everywhere" width="600" />
 </div>
+
 
 
 Ultima Online invented full-loot PvP. Outlands carries that tradition. When you die in the wilderness, your killer can take everything in your backpack. This creates stakes unlike anything in modern games.
@@ -1941,8 +2034,9 @@ Outlands has a distinct culture around PvP that new players should understand:
 ## 🖥️ UI & Essential Controls
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/0/08/statusbar.png" alt="The UO Status Bar — HP, Stamina, Mana" width="450" />
+<img src="https://wiki.uooutlands.com/images/0/08/statusbar.png" alt="The Status Bar — always watch your HP, Stamina and Mana" width="460" />
 </div>
+
 
 
 ### The Paperdoll
@@ -1985,8 +2079,9 @@ The bar showing your HP, Mana, and Stamina in real time:
 ## ⌨️ Macros — The Competitive Edge
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/f/f1/icon-bard.png" alt="Bard — the master of macros and crowd control" width="120" />
+<img src="https://wiki.uooutlands.com/images/f/f1/icon-bard.png" alt="Macros give you the competitive edge" width="120" />
 </div>
+
 
 
 Macros are the difference between surviving and dying in tough situations. Every experienced player has a full hotkey suite. Build yours before you need it.
@@ -2045,6 +2140,11 @@ Some macros benefit from adding delays between actions. A potion macro with a 1.
 
 ## 📋 Essential Shortcuts & Commands
 
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/9/94/icon-combat.png" alt="Combat shortcuts save lives" width="120" />
+</div>
+
+
 ### Combat Controls
 
 | Key / Action | Effect |
@@ -2097,8 +2197,9 @@ Some macros benefit from adding delays between actions. A potion macro with a 1.
 ## 📅 Progression Guide
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/thumb/c/cc/playerprogressionsystems2a.png/175px-playerprogressionsystems2a.png" alt="Player Progression Systems" width="400" />
+<img src="https://wiki.uooutlands.com/images/thumb/c/cc/playerprogressionsystems2a.png/175px-playerprogressionsystems2a.png" alt="Player Progression Systems" width="420" />
 </div>
+
 
 
 ### Days 1–3: Getting Your Feet Under You
@@ -2183,6 +2284,7 @@ These are the benchmarks of a truly established Outlands character:
 </div>
 
 
+
 ### Seasonal Events
 
 The Outlands team runs seasonal events that add temporary content, unique rewards, and community gathering moments.
@@ -2223,8 +2325,9 @@ Outlands has an active Discord server, a community wiki, and official forums. Th
 ## 💡 Tips, Tricks & Common Mistakes
 
 <div align="center">
-<img src="https://wiki.uooutlands.com/images/9/94/icon-combat.png" alt="Combat Tips" width="120" />
+<img src="https://wiki.uooutlands.com/images/0/06/icon-wilderness.png" alt="Know the land before you venture into it" width="120" />
 </div>
+
 
 
 ### Do These Immediately
