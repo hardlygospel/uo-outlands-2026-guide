@@ -110,39 +110,51 @@ The **Virtues** — Honesty, Compassion, Valour, Justice, Sacrifice, Honour, Spi
 
 ### The Cities & Their Histories
 
-**Britain** — Capital of Avadon and seat of Lord British, the legendary ruler who united the human kingdoms. Britain is the economic heart of the world: the largest market, the busiest bank steps, and the social centre where adventurers converge to buy, sell, recruit, and gossip. The city corresponds to the Virtue of Compassion.
+**Prevalia** — The capital of Avadon and the seat of Imperial power. Built on white cliffs above a canal district, Prevalia is divided into Upper and Lower districts. Upper Prevalia is the domain of nobility, scholars, artists, and bards. Lower Prevalia, carved through marshes and waterways, grew from the ancient port trade. The city's famous **Arcane Alley** has been the centre of magical knowledge since the Empire's founding. The **Bazaar** near the docks is the primary market hub of the world — if it can be bought or sold, it passes through Prevalia. The city's **Society Hall** connects adventurers with work.
 
-**Trinsic** — The city of Honour, home to the paladins. A walled, military city in the south, Trinsic has a long history of holding the line against the dark creatures that press from the south. Players who follow the path of Chivalry feel a natural draw to Trinsic.
+**Andaria** — Avadon's northern kingdom, settled between polar ice caps. Andaria is known for its exceptional stonework and military traditions — its architecture is massive, cold, and built to last centuries. The Mage's Guild of Andaria is among the most prestigious institutions of learning in the realm. The cold climate makes farming difficult, but the people are resilient and productive. Andaria and Prevalia have historically competed for dominance of the northern trade routes.
 
-**Vesper** — A wealthy merchant city in the northeast, built on trade routes and waterways. Vesper corresponds to Honesty. Its marketplace is significant, and its position makes it a natural waypoint for traders moving between regions.
+**Cambria** — A desert city in the southwest, founded "in the spirit of the old traditions of honour." Cambria has deep warrior culture — the Fighter's Guild and Warrior's Guild both established early roots here, and mercenary companies are woven into the city's identity. The nearby volcano **Inferno** erupted in 607 AC and flooded a large portion of the city, which remains underwater to this day. Cambria endures nonetheless, and its fighting traditions remain unbroken. The **Ossuary** dungeon lies west of the city.
 
-**Minoc** — The mining town of the north. Minoc sits in the mountains and is surrounded by rich ore deposits. Miners and blacksmiths treat Minoc as a second home — the forge is always lit.
+**Corpse Creek** — Not a city so much as a lawless settlement in the far northwest. Established around a creek by the mercenary captain Landau in 561 AC, it has grown into a haven for criminals, outcasts, and those fleeing justice from the three kingdoms. Its black market is the best-stocked in the world for things that cannot be sold elsewhere. If you need something illegal or simply do not want to be found, Corpse Creek is where you go.
 
-**Yew** — Deep in the western forests, Yew is the city of Justice. Its great courtroom and jail are infamous. The druids of Yew are powerful, and the forest around the city hides dangers and treasures in equal measure.
+**Horseshoe Bay** — A coastal settlement built around a natural harbour. Fishing and maritime trade are its lifeblood. The bay provides shelter from the open ocean, and the town has grown into a significant waypoint for sea traders moving between regions.
 
-**Moonglow** — The mage city, built on an island to the east, accessible only by ship or magic. Moonglow is the centre of magical learning in Avadon. The best reagents and spellbooks come from Moonglow's markets.
+**Anchor's Rest** — A southern port town, quieter than Prevalia's docks but strategically positioned for access to the southern seas and island chains. Sailors and fishermen make up much of its population.
 
-**Skara Brae** — Island city of the bards, accessible by ferry. Skara Brae corresponds to Spirituality and is the home of the Bardic Arts — Musicianship, Peacemaking, Provocation, Discordance. Its taverns are famous.
+**Outpost** — A frontier settlement on the northern coast, historically a satellite of Andaria. Small but resilient, it serves as the northernmost safe haven for adventurers pushing into the cold wilderness.
 
-**Jhelom** — The warrior city on the southern islands, dedicated to Valour. The fighting pits of Jhelom are legendary — duels are common and celebrated.
+**Terran** — An inland settlement that has grown as a crossroads between the major kingdoms, serving travellers and traders moving through the central regions of Avadon.
+
 
 ### The Dungeons' Origins
 
-Each major dungeon in Avadon has history:
+Each of Avadon's dungeons has a history that explains the horrors within:
 
-**Despise** — Once the stronghold of an ancient warlord who sought to raise an army of ogres and trolls. He was defeated but the creatures remain, leaderless and territorial.
+**Aegis Keep** — Once a fortress held by a powerful blood cult. The keep fell when the cult's rituals drew something ancient and hungry into the structure. The blood creatures within are not the same as what the cultists summoned — they are what the summoning *became*.
 
-**Covetous** — A mine complex that broke through into something ancient. The harpies and creatures within predate the mine's construction.
+**Cavernam** — Deep glacier caverns in the far north. Legends describe a civilisation that built here before the ice came — or before they *called* the ice. The frost and ice creatures that inhabit Cavernam are the remnants of something that should have died with them.
 
-**Shame** — An elemental rift opened by a rogue mage experimenting with planar magic. The elementals poured through and have occupied the cave system ever since.
+**Darkmire Temple** — A druidic temple built in the deep swamp, abandoned when its practitioners' connection to nature grew into something they could no longer control. The giant spiders and corrupted spirits within are what the temple's wards once held back.
 
-**Deceit** — A necromancer's tower, abandoned when its owner's experiments consumed him. The undead he created still wander.
+**Inferno** — A volcano dungeon near Cambria. The volcanic network beneath was carved out by fire-worshipping cultists who believed the heat was holy. The eruption of 607 AC that flooded Cambria originated here. The Infernal Knights still guard the deepest chambers.
 
-**Destard** — Dragon country. Destard has been dragon territory since before human memory. The exact origin of the dragon clans within is lost to time.
+**Kraul Hive** — An insect hive of massive scale, carved into the earth over centuries by the Kraul — a species of giant insectoids native to Avadon. The Hivemother commands thousands of drones. They do not negotiate.
 
-**Hythloth** — Demon gates. Hythloth was a religious site corrupted by summoning magic. The things that came through sealed it from the inside.
+**Mausoleum** — The precise origin is unknown. The Mausoleum has been there longer than any written record. Whatever is sealed within its walls, the inscription above the entrance warns that only the virtuous should enter — and even they should not expect to leave unchanged.
 
-**Doom** — The dungeon no one has fully mapped. Doom is where the most ancient and powerful creatures dwell — things that survive because nothing in Avadon is strong enough to challenge them.
+**Mount Petram** — A colossal cavern beneath a mountain, home to the Terathan — spider-like humanoids of great intelligence and greater hostility. Gem elementals and earth creatures share the deep levels. The Terathan Goliath waits in the lowest chamber.
+
+**Nusero** — An island dungeon, accessible by sea. The island's interior is a network of caverns populated by dragons, wyrms, and the Ophidian — serpent-folk who claim the island as sacred ground. The depths hold the ghostly remains of dragonknights who tried and failed to clear it centuries ago.
+
+**Ossuary** — In the desert west of Cambria, the ruins of a sandstone township mark the entrance. Below lies a tomb complex of enormous scale — skeletal dragons, liches, mummies, and necromancers all serve the Forgotten King, who has ruled these halls long after death should have claimed him.
+
+**Pulma** — A dam structure built between Prevalia and Andaria. The dam was a feat of engineering — until the builders dug too deep and flooded what they found. The Ancient Drowned Dragon in the lowest chamber predates the dam by centuries. The water never drained.
+
+**Shadowspire Cathedral** — A gothic cathedral of immense size, rumoured to contain recreations of places lost to history within its rooms. Spectral knights and priests patrol halls that seem larger on the inside than the outside. The origin of the Cathedral itself is disputed — some claim it was built; others say it simply *appeared*.
+
+**Tidal Tomb** — An underwater dungeon in the Wildlands. Those who dive below the surface find drowned buccaneers and strange Zoa creatures. The oxygen runs out. Recovery dolphins station themselves at key points to extend your dive. What lies deepest in the Tidal Tomb has never been fully documented.
+
 
 ---
 
@@ -1765,7 +1777,7 @@ Champion Spawns are large-scale PvE events — a pulsing Altar appears in a dedi
 - **Rare drops** — champion-specific loot
 - **Fame and Karma** — substantial reputation gains
 
-**Champion Spawn Locations:** Multiple dedicated areas around Sosaria. Check the Outlands wiki for current active locations.
+**Champion Spawn Locations:** Multiple dedicated areas around Avadon. Check the Outlands wiki for current active locations.
 
 **Warning:** Champion Spawns attract other players. PvP over spawns is common — the Power Scrolls are worth fighting for.
 
@@ -1854,112 +1866,185 @@ Avadon's economy has clear tiers:
 
 ### The World of Avadon
 
-Outlands' custom map has eight major cities connected by wilderness full of creatures, ruins, and secrets. The wilderness isn't safe — monsters roam, and other players can attack you in most areas.
+Avadon's custom map has multiple cities connected by wilderness full of creatures, ruins, and secrets. The wilderness is not safe — monsters roam everywhere, and other players can attack you in most areas.
 
 **Major Cities:**
 
 | City | Theme | Notable Feature |
 |---|---|---|
-| Britain | Capital | Main market hub, Britain Bank steps (social centre) |
-| Trinsic | Paladin | High-quality trainers, southern access |
-| Vesper | Merchant | Secondary market, northeastern location |
-| Minoc | Mining | Mountain access, forge facilities |
-| Yew | Forest/Justice | Great Courtroom, western dungeons access |
-| Moonglow | Magic | Best mage shops, island location |
-| Skara Brae | Bard | Ferry access, bardic trainers |
-| Jhelom | Warrior | Fighting pits, southern islands |
+| Prevalia | Capital / Magic | The Bazaar (main market); Arcane Alley (best mage shops); Society Hall; primary bank and social hub |
+| Andaria | Military / Cold | Northern kingdom; Mage's Guild; exceptional stonework; cold climate and strong fighting tradition |
+| Cambria | Warrior / Desert | Desert warrior city; Fighter's and Warrior's Guilds; partially flooded from the Inferno eruption |
+| Corpse Creek | Outlaw / Black Market | Lawless bandit haven; best black market; mercenaries and criminals; no law enforcement |
+| Horseshoe Bay | Coastal / Trade | Natural harbour; fishing and maritime trade; important waypoint for sea traders |
+| Anchor's Rest | Southern Port | Southern sea access; sailors and fishing community |
+| Outpost | Frontier | Northernmost safe settlement; satellite of Andaria |
+| Terran | Crossroads | Inland settlement connecting the major kingdoms |
+
 
 ### Major Dungeons — Complete Guide
 
-**Despise** (Easy-Medium)
-*Location:* North of Britain
-*Creatures:* Ogres, Trolls, Ettins, Cyclops
-*Recommended:* Melee warrior with 70+ weapon skill
-*Notable drops:* Basic magic items, ore, gold
-*Notes:* Classic starter dungeon. Multiple levels — go deeper for better rewards but harder creatures.
+> All dungeon names are unique to UO Outlands. There are no retail UO dungeons (Destard, Covetous, etc.) in Avadon.
 
 ---
 
-**Covetous** (Easy-Medium)
-*Location:* Northeast coast
-*Creatures:* Harpies, various coastal creatures
-*Recommended:* Mid-tier warrior or mage
-*Notable drops:* Moderate magic loot, reasonable gold
-*Notes:* Often less crowded than Despise. Good for finding your feet in real dungeon content.
+**Prevalia Sewers** (Beginner)
+*Type:* Sanctuary dungeon — safe from PvP
+*Creatures:* Rats, slimes, sewer vermin, low-level humanoids
+*Recommended:* New characters with 40–60 skill
+*Notes:* The easiest content outside Shelter Island. Good for getting your first feel for dungeon combat without the threat of player killers.
 
 ---
 
-**Shame** (Medium)
-*Location:* South of Minoc
-*Creatures:* Earth, Air, Fire, Water Elementals; various
-*Recommended:* Solid warrior or tamer; resist gems help significantly
-*Notable drops:* Elemental loot, magic items
-*Notes:* Build your elemental resistances to match the level you're farming. The elemental damage types vary by area within Shame.
+**Ratman Hovel** (Beginner)
+*Type:* Sanctuary dungeon — safe from PvP
+*Creatures:* Ratmen, small beasts
+*Recommended:* Early characters building their first template
+*Notes:* Another safe starter dungeon. Use these sanctuary dungeons to establish your character before venturing into the open PvP world.
 
 ---
 
-**Deceit** (Medium)
-*Location:* Northeast island
-*Creatures:* Skeletons, Zombies, Ghouls, Liches, Lich Lords
-*Recommended:* Mid-tier builds; Chivalry or Holy Light helps against undead
-*Notable drops:* Necromancy reagents, moderate magic items
-*Notes:* Undead are vulnerable to Chivalry spells. A Paladin here is extremely effective.
+**Urukton Bluffs** (Beginner–Easy)
+*Type:* Sanctuary dungeon — safe from PvP
+*Creatures:* Orcs, goblins, primitive humanoids
+*Recommended:* Characters with 50–70 skill
+*Notes:* The final safe dungeon before you graduate to the open world. Good loot for early characters.
 
 ---
 
-**Destard** (Hard)
-*Location:* Southwest
-*Creatures:* Drakes, Dragons, Greater Dragons, Wyverns, Ancient Wyrms
-*Recommended:* GM Tamer, high-end warrior, or experienced group
-*Notable drops:* Dragon hides (Barbed leather), Dragon Blood (rare crafting ingredient), valuable loot drops, significant gold
-*Notes:* The dragon dungeon. Greatest income potential outside Doom for skilled tamers. Don't attempt solo without a Greater Dragon or equivalent power.
+**Cavernam** (Easy–Medium)
+*Location:* Far northern region
+*Creatures:* Ice Liches, White Wyrms, Wendigos, Rime Spirits, Winter Wolves, Glacial Creeps, Frozen Furies
+*Recommended:* 80+ weapon or magic skill; cold resist helps significantly
+*Notable drops:* Cavernam Rares; frost-themed magic items
+*Notes:* A frozen glacier dungeon with multiple levels and a boss room. The ice-themed creatures deal cold damage — a character with solid cold resistance will have a much easier time. The White Wyrms in the deeper levels are the main threat.
 
 ---
 
-**Fire Dungeon** (Hard)
-*Location:* Remote southern area
-*Creatures:* Fire Elementals, Fire Daemons, Fire Steeds, Fire Gargoyles
-*Recommended:* High cold and fire resist; ranged combat preferred
-*Notable drops:* Fire-elemental loot, unique drops
-*Notes:* Build significant fire resistance before entering. Melee is viable with the right resist profile; magic is excellent here.
+**Darkmire Temple** (Easy–Medium)
+*Location:* Deep swamp, southern region
+*Creatures:* Arachnai (Hivematron, Ravager, Soldier), Spirit Bears and Wolves, Bear and Wolf Druids, Swamp Dragons, Swamp Drakes, Giant Black Widows, Poison Dart Frogs
+*Boss:* The Terrorwood
+*Recommended:* 80+ skill; poison resist; bring poison cure potions
+*Notable drops:* Darkmire Rares; nature-themed drops
+*Notes:* Swamp environment with a heavy druidic theme. Poison is the main hazard — stock cure potions before entering. The Arachnai come in multiple variants; the Soldier types are the most dangerous.
 
 ---
 
-**Hythloth** (Hard)
-*Location:* South, beneath Jhelom region
-*Creatures:* Daemons, Gargoyles, Demons, Succubi
-*Recommended:* Strong warrior or tamer; resist gear
-*Notable drops:* Daemon bone (Bone Armour crafting), rare drops
-*Notes:* Demon-type creatures often have powerful ranged magic attacks. Energy and fire resist are important.
+**Kraul Hive** (Medium)
+*Location:* Central wilderness
+*Creatures:* Giant insectoids in multiple variants (Corrosive, Foulglow, Siltsifter, Spelltouched), giant spiders, the Kraul Hivemother
+*Boss:* Kraul Hivemother, Kraul Hydra
+*Recommended:* Established character; 90+ skill recommended
+*Notable drops:* Kraul Rares; insect chitin drops
+*Notes:* A massive insect hive with 69+ creature types. The Kraul are organised — expect coordinated attacks from multiple creature variants. The Hivemother boss fight requires preparation. Poison and acid damage are common.
 
 ---
 
-**Doom** (Extreme)
-*Location:* Separate entrance area, far from Britain
-*Creatures:* Ancient Liches, Dark Fathers, Darknight Creepers, Bone Demons, and unique Doom creatures
-*Recommended:* Endgame characters only; GM Tamer with Greater Dragon is the standard
-*Notable drops:* Best loot in the game; Doom Artifacts; rare and powerful items
-*Notes:* Doom has unique mechanics — Dark Fathers respawn on a timer, and the gauntlet areas require specific combat approaches. Study the Outlands wiki before entering. The rewards are worth it.
+**Aegis Keep** (Medium)
+*Location:* Northern region
+*Creatures:* Blood Dragons, Blood Daemons, Blood Elementals, Blood Golems, Bloodwolves, Cultists, Chaos Knights, Liches, Rage Daemons, Twilight Guardians
+*Recommended:* Solid build; 90+ skill; energy and fire resist
+*Notable drops:* Aegis Keep Rares; blood-themed magic items
+*Notes:* A former blood cult fortress now consumed by what the cult summoned. Multiple levels plus boss rooms. The blood creatures deal mixed damage types — diversify your resistances. The Chaos Knights and Twilight Guardians are the highest threats outside boss rooms.
 
 ---
 
-**Twisted Weald** (Hard)
-*Location:* Designated area
-*Creatures:* Fairy creatures, nature spirits, unique Weald monsters
-*Recommended:* Solid mid-to-high-tier builds
-*Notable drops:* Unique Weald drops, ingredients for crafting, rare cosmetics
-*Notes:* The Twisted Weald has unique creature mechanics and drops items unavailable anywhere else. Worth exploring once you're established.
+**Mount Petram** (Medium–Hard)
+*Location:* Underground mountain cavern
+*Creatures:* Terathaners (Goliath, Warriors, Drones, Matrons, Broodguards, Larvae), gem Elementals (Amber, Amethyst, Diamond, Emerald, Ruby, Sapphire), Trapdoor Spiders, Earth Drakes, Minotaurs, Harpies, Moss Giants
+*Boss:* Terathan Goliath
+*Recommended:* 95+ skill; a tamer with a strong pet thrives here
+*Notable drops:* Mount Petram Rares; gem drops; crystalline loot
+*Notes:* The Terathaners are intelligent and fight in formation. The gem elementals are slow but hit hard. The Terathan Goliath in the deepest chamber is one of the more demanding non-endgame bosses in the game.
 
 ---
 
-**Underworld** (Extreme)
-*Location:* Deep underground access
-*Creatures:* Ancient creatures, unique Underworld monsters
-*Recommended:* Endgame only
-*Notable drops:* High-value rare items
-*Notes:* Competitive with Doom for difficulty and reward. Less frequently run, which means less competition — but also less community knowledge to draw on.
+**Ossuary** (Medium–Hard)
+*Location:* Desert ruins west of Cambria
+*Creatures:* Skeletal Dragons, Skeletal Mages, Liches, Mummies, Revenants, Necromancers, Ossuarian Warriors, Desert Scorpions
+*Boss:* The Forgotten King
+*Recommended:* 95+ skill; Chivalry or undead-damage spells are strong here
+*Notable drops:* Ossuary Rares; undead-themed drops; desert materials
+*Notes:* A desert tomb dungeon with strong undead theming. Chivalry players are extremely effective — holy damage doubles against undead. The Forgotten King boss room requires you to fight through layers of his undead court before reaching him.
 
 ---
+
+**Inferno** (Hard)
+*Location:* Volcanic region near Cambria
+*Creatures:* Fire Beetles, Fire Crawlers, Firebats, Lava Elementals, Infernal Archers, Infernal Knights, Infernal Mages, Infernal Sorcerers
+*Bosses:* Infernus, Heart of the Mountain
+*Recommended:* 95+ skill; high fire resist is mandatory; cold-damage weapons are a significant advantage
+*Notable drops:* Inferno Rares; fire-element drops; volcanic materials
+*Notes:* Build maximum fire resistance before entering — fire damage is constant and severe. Ranged combat and cold damage spells are ideal here. The Heart of the Mountain boss is a deeply embedded encounter in the lowest chamber. The volcano eruption in 607 AC that flooded Cambria originated from this dungeon.
+
+---
+
+**Nusero** (Hard)
+*Location:* Nusero Island — accessible by boat, entrance on north side
+*Creatures:* Azure Wyrms, Ember Dragons, Emperor Dragons, Pit Dragons, Smoke Drakes, Eldritch Drakes, Ophidian Warriors, Ophidian Mages, Ophidian Shamans, Forktongue Battlebanes, Ghostly Dragonknights
+*Recommended:* Endgame-capable character; GM Tamer with Greater Dragon is the benchmark
+*Notable drops:* Nusero Rares; dragon hides; high-value island drops
+*Notes:* Island access requires a boat or magic travel. The dragons and wyrms in deeper levels are comparable in difficulty to the hardest mainland dungeons. Ophidian groups use flanking tactics — be prepared to be surrounded. The ghostly remnants of dragonknights tell you exactly how hard this place is.
+
+---
+
+**Pulma** (Hard)
+*Location:* Dam between Prevalia and Andaria regions
+*Creatures:* Deep Crawlers, Drowned Daemons, Water Dragons, Sea Hags, Precursor Engineers, Guardians, Lancers, Sentries, Maelstrom
+*Bosses:* Maelstrom, Ancient Drowned Dragon
+*Recommended:* High-end character; the dam aqueducts require you to navigate water sections
+*Notable drops:* Pulma Rares; aquatic drops
+*Notes:* Three dungeon levels accessed via long aqueducts. The Ancient Drowned Dragon chamber at the bottom is a true endgame encounter — it predates the dam itself and whatever it originally was, it has been down there long enough to evolve into something unique.
+
+---
+
+**Tidal Tomb** (Hard)
+*Location:* Underwater — Wildlands region
+*Creatures:* Drowned Buccaneers, Drowned Mariners, Zoa variants, Crabs, Frenzyfins, Tidal Kraits, Tidal Sea Serpents
+*Recommended:* High-end character; prepare for oxygen management
+*Notable drops:* Tidal Tomb Rares; aquatic and maritime drops; +5% gold and XP in underwater sections
+*Notes:* Unique mechanic — the deeper levels are fully submerged. Oxygen depletes over time, dealing unpreventable damage. Recovery Dolphins are stationed at key points and refill your oxygen — find them. The reward for pushing deeper is +5% gold and experience per level. Do not go deep without knowing where the dolphins are.
+
+---
+
+**Shadowspire Cathedral** (Hard–Endgame)
+*Location:* Desolate region, accessible overland
+*Creatures:* Spectral Warriors, Knights, Priests, Bishops, Crimson and Iron Gargoyles, Mephits (Fire, Frost, Earth, Poison, Blood), Gargans (Flamekin, Flameshaper), Marble Minotaurs, Horned Devils
+*Recommended:* Endgame character; full resist profile required; PvP risk is high here
+*Notable drops:* Shadowspire Cathedral Rares; spectral and demonic drops
+*Notes:* One of the largest dungeons in the game. The interior contains themed rooms including recreations of places lost to Avadon's history. This dungeon is heavily contested by PvP — other players are a constant threat. High energy, fire, and physical resists are needed. Expect company.
+
+---
+
+**Mausoleum** (Endgame)
+*Location:* Remote location
+*Creatures:* Unknown — the full creature list is not documented. The Gatekeeper guards the entrance.
+*Boss:* The Gatekeeper
+*Recommended:* Endgame only; the inscription warns even the virtuous to prepare
+*Notable drops:* Mausoleum Rares
+*Notes:* Little is publicly known about the Mausoleum's interior. It has been there longer than any recorded history. The warning above the entrance is taken seriously by experienced players.
+
+---
+
+**Forsaken Keep** (Endgame — Subterranean)
+*Type:* Subterranean dungeon
+*Recommended:* Endgame characters only
+*Notes:* One of two subterranean dungeons accessible via underground routes. High-level content with commensurate rewards.
+
+---
+
+**Undermountain** (Endgame — Subterranean)
+*Type:* Subterranean dungeon
+*Recommended:* Endgame characters only
+*Notes:* The deepest accessible dungeon in Avadon. Undermountain is where the hardest content and the best loot converge.
+
+---
+
+**Time Dungeon** (True Endgame)
+*Recommended:* The most geared, most skilled characters in the game
+*Notes:* The final endgame dungeon. Details are intentionally kept sparse — part of its mystique is that you must earn the right to know what is inside.
+
 
 ## 🗝️ Dungeon Maps — The Instanced System
 
@@ -2376,7 +2461,7 @@ Ultima Online: Outlands is not a game that will hold your hand. It will let you 
 
 The world of Avadon is alive because its players make it so. The economy exists because crafters work it. The dungeons are dangerous because other players are in them. The champion spawns are contested because the rewards matter. Nothing here is artificial — it's all real because real people care about it.
 
-Your character is what you build it to be. Your reputation is what you earn. Sosaria doesn't care who you were in other games — it only knows what you do here.
+Your character is what you build it to be. Your reputation is what you earn. Avadon doesn't care who you were in other games — it only knows what you do here.
 
 **Create your character. Start training. The dungeon won't clear itself.**
 
