@@ -198,6 +198,252 @@ From Britain shops and player vendors, prioritise:
 
 ---
 
+## 🖥️ UI & Essential Controls
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/0/08/statusbar.png" alt="The Status Bar — always watch your HP, Stamina and Mana" width="460" />
+</div>
+
+
+
+### The Paperdoll
+
+Double-click your character (or press `Alt+P` in most clients) to open your paperdoll — the equipment screen:
+- Shows all equipped items with slots
+- Displays current Strength, Dexterity, Intelligence
+- Access to Skills window, Spellbook, and Backpack
+- **Combat Mode toggle** — single click the helmet icon to enter war mode
+
+### The Backpack
+
+Your main inventory (`Alt+I` or double-click backpack). Organisation matters in combat.
+
+**Recommended organisation:**
+- **Top row:** Potions in separate sub-bag labelled "POTS" — quick grab in emergencies
+- **Second row:** Bandages in easily accessible spot
+- **Sub-bag:** "WEAPONS" — spare weapon, arrows, etc.
+- **Sub-bag:** "REAGENTS" (mages) — all reagents grouped
+- **Gold:** Bank it. Never carry more than you need.
+
+### The Journal
+
+All game messages appear in the Journal window. In combat, watch for:
+- "You hit [target] for X damage" / "You miss [target]"
+- "You have been poisoned" — activate cure immediately
+- "You feel much better" — bandage heal completed; queue another
+- "Your pet has been slain" — retrieve bonded pet with Animal Lore
+- "[Player name] is attacking you" — check map for direction
+
+### Status Bar
+
+The bar showing your HP, Mana, and Stamina in real time:
+- HP dropping fast = bandage immediately
+- Mana empty = stop casting; Meditate if safe
+- Stamina at zero = you can't run; use a Refresh Potion
+
+---
+
+## 📋 Essential Shortcuts & Commands
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/9/94/icon-combat.png" alt="Combat shortcuts save lives" width="120" />
+</div>
+
+
+### Combat Controls
+
+| Key / Action | Effect |
+|---|---|
+| `Tab` | Toggle War Mode (enables attacking) |
+| Double-click enemy in War Mode | Attack |
+| `F1–F12` | Macro hotkeys |
+| `Alt + Click` character | Open their paperdoll |
+| `Shift + Click` corpse | Attempt to open (loot) corpse |
+| Double-click item | Use / equip |
+| `Drag + drop` | Move items between containers |
+
+### Text Commands (typed in chat)
+
+| Command | Effect |
+|---|---|
+| `[bank` | Open your bank box (must be near bank NPC) |
+| `[help` | Open the help menu |
+| `[stats` | Display your current stats |
+| `[time` | Show current server time |
+| `[props` | Display item properties (if enabled) |
+| `[who` | List online players |
+| `[version` | Show client version |
+| `[afk` | Mark yourself as AFK |
+
+### Pet Commands (say in chat or macro)
+
+| Command | Effect |
+|---|---|
+| `All follow me` | All pets follow you |
+| `All kill` | All pets attack current target |
+| `All stop` | All pets cease current action |
+| `All guard me` | Pets defend; attack anything hostile near you |
+| `All come` | Pets return to your location |
+| `All stay` | Pets hold current position |
+| `All release` | Release all pets (permanent — use carefully) |
+| `[Name] follow me` | Specific named pet follows |
+| `[Name] kill` | Specific pet attacks |
+
+### Client Settings Worth Configuring
+
+- **Sound:** Turn off music, keep combat sounds on — healing ticks and hit sounds are useful audio cues
+- **Names above heads:** Enable for all mobiles — essential for identifying player vs creature
+- **Corpse open on walk-over:** Disable in PvP areas — you don't want to accidentally open a corpse mid-fight
+- **Auto-open corpses:** Enable for PvM, disable for PvP-risk areas
+- **Status bar:** Keep it visible and in an easy-to-scan position
+
+---
+
+## ⌨️ Macros — The Competitive Edge
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/f/f1/icon-bard.png" alt="Macros give you the competitive edge" width="120" />
+</div>
+
+
+
+Macros are the difference between surviving and dying in tough situations. Every experienced player has a full hotkey suite. Build yours before you need it.
+
+### Setting Up Macros
+
+1. Open **Options** (`Alt+O` or via the main menu)
+2. Select the **Macros** tab
+3. Click **New Macro**, assign a hotkey
+4. Add actions in sequence
+
+### Essential Macros
+
+**Survival:**
+```
+F1:  Use item type "Bandages" → Target Self
+F2:  Use item type "Healing Potion"
+F3:  Use item type "Cure Potion"
+F4:  Use item type "Refresh Potion"
+F5:  Use item type "Explosion Potion" → Target Last
+```
+
+**Combat:**
+```
+F6:  Last Target (attack focus)
+F7:  Next Target (cycle nearby)
+F8:  Primary Weapon Special
+F9:  Secondary Weapon Special
+F10: Cast Greater Heal → Target Self
+F11: Cast Recall (mages)
+F12: Arm/Disarm weapon toggle
+```
+
+**Pet Control (Tamers):**
+```
+Numpad 1: Say "All Follow Me"
+Numpad 2: Say "All Kill" → Last Target
+Numpad 3: Say "All Stop"
+Numpad 4: Say "All Guard Me"
+Numpad 5: Say "All Stay"
+```
+
+**Quality of Life:**
+```
+Alt+B:   [bank command
+Alt+S:   Open Skills window
+Alt+J:   Open Journal
+Alt+I:   Open Backpack
+```
+
+### Macro Timing
+
+Some macros benefit from adding delays between actions. A potion macro with a 1.5-second delay before the next action prevents wasted potion queuing. Experiment with timing to find what feels right for your playstyle.
+
+---
+
+## 📅 Progression Guide
+
+<div align="center">
+<img src="https://wiki.uooutlands.com/images/thumb/c/cc/playerprogressionsystems2a.png/175px-playerprogressionsystems2a.png" alt="Player Progression Systems" width="420" />
+</div>
+
+
+
+### Days 1–3: Getting Your Feet Under You
+
+Your first objective is survival, learning, and establishing a foundation. Don't worry about being optimal — worry about understanding the systems.
+
+**Checklist:**
+- Complete the starter quest chain from the New Player NPC in Britain
+- Set your skill locks correctly — understand what you want rising and what can fall
+- Train your primary weapon or magic skill on training dummies to at least 30
+- Visit the bank and deposit anything valuable
+- Buy basic armour from player vendors or NPC shops
+- Farm Britain Cemetery for starter gold (easy undead, 10–20 minutes from Britain)
+- Ask questions — the community at Britain Bank is generally helpful to genuine new players
+
+---
+
+### Week 1: Building the Foundation
+
+You understand the basics. Now build toward real capability.
+
+**Checklist:**
+- Primary skills reaching 50–60
+- Move from Britain Cemetery to Despise or Spirituality Dungeon
+- Accumulate 50,000+ gold (your first significant savings)
+- Set up your macro hotkeys — all survival macros should be working
+- If crafting: reach GM in one primary craft
+- If taming: begin taming training; get Animal Taming to 70+
+- Consider joining a guild for community support
+
+---
+
+### Month 1: Starting to Thrive
+
+You're no longer a beginner. You're working toward mastery.
+
+**Checklist:**
+- Primary skills at 70–80
+- Mid-tier dungeon farming (Shame, Covetous, Deceit)
+- 100,000–300,000 gold saved
+- Crafted or purchased proper armour set matching your resist needs
+- If taming: Animal Taming at 80+; bonded first strong pet
+- Working toward a house (start researching housing areas)
+- Understanding the Auction House and player vendor economy
+
+---
+
+### Month 2–3: Becoming Dangerous
+
+Your character is approaching its final form. The game fully opens up.
+
+**Checklist:**
+- All primary skills at 90–100 (Grandmaster)
+- House purchased and set up
+- High-tier dungeon farming (Destard, high Shame)
+- Significant gold reserve — able to replace gear without panic
+- Considering first Power Scrolls for key skills
+- PvP capable if that's your path — practicing in Faction Warfare or guild wars
+- Working toward a Champion Spawn run for Power Scrolls
+
+---
+
+### Long-Term Goals (3 months+)
+
+These are the benchmarks of a truly established Outlands character:
+
+- All skills in your template at 100 (Grandmaster), working toward 115–120 via Power Scrolls
+- House fully furnished and operational with vendors
+- Regular Doom Dungeon runs or equivalent high-end farming
+- Known reputation on the shard — players recognise your name
+- Guild membership with real relationships
+- For Tamers: Greater Dragon bonded and properly developed
+- For Crafters: Regular Exceptional Valorite or Barbed production
+- Financial security: millions in the bank, able to replace any gear loss without flinching
+
+---
+
 ## 📊 The Skill System
 
 <div align="center">
@@ -1998,252 +2244,6 @@ Outlands has a distinct culture around PvP that new players should understand:
 **Gank vs Fair fight:** Getting killed 5v1 is a gank. Getting killed 1v1 by a better player is just a fight. The community respects good fights more than efficient kills.
 
 **Britain Bank trash talk:** The steps of Britain Bank are where PvP social dynamics play out — bragging, challenging, recruiting. It's part of the culture.
-
----
-
-## 🖥️ UI & Essential Controls
-
-<div align="center">
-<img src="https://wiki.uooutlands.com/images/0/08/statusbar.png" alt="The Status Bar — always watch your HP, Stamina and Mana" width="460" />
-</div>
-
-
-
-### The Paperdoll
-
-Double-click your character (or press `Alt+P` in most clients) to open your paperdoll — the equipment screen:
-- Shows all equipped items with slots
-- Displays current Strength, Dexterity, Intelligence
-- Access to Skills window, Spellbook, and Backpack
-- **Combat Mode toggle** — single click the helmet icon to enter war mode
-
-### The Backpack
-
-Your main inventory (`Alt+I` or double-click backpack). Organisation matters in combat.
-
-**Recommended organisation:**
-- **Top row:** Potions in separate sub-bag labelled "POTS" — quick grab in emergencies
-- **Second row:** Bandages in easily accessible spot
-- **Sub-bag:** "WEAPONS" — spare weapon, arrows, etc.
-- **Sub-bag:** "REAGENTS" (mages) — all reagents grouped
-- **Gold:** Bank it. Never carry more than you need.
-
-### The Journal
-
-All game messages appear in the Journal window. In combat, watch for:
-- "You hit [target] for X damage" / "You miss [target]"
-- "You have been poisoned" — activate cure immediately
-- "You feel much better" — bandage heal completed; queue another
-- "Your pet has been slain" — retrieve bonded pet with Animal Lore
-- "[Player name] is attacking you" — check map for direction
-
-### Status Bar
-
-The bar showing your HP, Mana, and Stamina in real time:
-- HP dropping fast = bandage immediately
-- Mana empty = stop casting; Meditate if safe
-- Stamina at zero = you can't run; use a Refresh Potion
-
----
-
-## ⌨️ Macros — The Competitive Edge
-
-<div align="center">
-<img src="https://wiki.uooutlands.com/images/f/f1/icon-bard.png" alt="Macros give you the competitive edge" width="120" />
-</div>
-
-
-
-Macros are the difference between surviving and dying in tough situations. Every experienced player has a full hotkey suite. Build yours before you need it.
-
-### Setting Up Macros
-
-1. Open **Options** (`Alt+O` or via the main menu)
-2. Select the **Macros** tab
-3. Click **New Macro**, assign a hotkey
-4. Add actions in sequence
-
-### Essential Macros
-
-**Survival:**
-```
-F1:  Use item type "Bandages" → Target Self
-F2:  Use item type "Healing Potion"
-F3:  Use item type "Cure Potion"
-F4:  Use item type "Refresh Potion"
-F5:  Use item type "Explosion Potion" → Target Last
-```
-
-**Combat:**
-```
-F6:  Last Target (attack focus)
-F7:  Next Target (cycle nearby)
-F8:  Primary Weapon Special
-F9:  Secondary Weapon Special
-F10: Cast Greater Heal → Target Self
-F11: Cast Recall (mages)
-F12: Arm/Disarm weapon toggle
-```
-
-**Pet Control (Tamers):**
-```
-Numpad 1: Say "All Follow Me"
-Numpad 2: Say "All Kill" → Last Target
-Numpad 3: Say "All Stop"
-Numpad 4: Say "All Guard Me"
-Numpad 5: Say "All Stay"
-```
-
-**Quality of Life:**
-```
-Alt+B:   [bank command
-Alt+S:   Open Skills window
-Alt+J:   Open Journal
-Alt+I:   Open Backpack
-```
-
-### Macro Timing
-
-Some macros benefit from adding delays between actions. A potion macro with a 1.5-second delay before the next action prevents wasted potion queuing. Experiment with timing to find what feels right for your playstyle.
-
----
-
-## 📋 Essential Shortcuts & Commands
-
-<div align="center">
-<img src="https://wiki.uooutlands.com/images/9/94/icon-combat.png" alt="Combat shortcuts save lives" width="120" />
-</div>
-
-
-### Combat Controls
-
-| Key / Action | Effect |
-|---|---|
-| `Tab` | Toggle War Mode (enables attacking) |
-| Double-click enemy in War Mode | Attack |
-| `F1–F12` | Macro hotkeys |
-| `Alt + Click` character | Open their paperdoll |
-| `Shift + Click` corpse | Attempt to open (loot) corpse |
-| Double-click item | Use / equip |
-| `Drag + drop` | Move items between containers |
-
-### Text Commands (typed in chat)
-
-| Command | Effect |
-|---|---|
-| `[bank` | Open your bank box (must be near bank NPC) |
-| `[help` | Open the help menu |
-| `[stats` | Display your current stats |
-| `[time` | Show current server time |
-| `[props` | Display item properties (if enabled) |
-| `[who` | List online players |
-| `[version` | Show client version |
-| `[afk` | Mark yourself as AFK |
-
-### Pet Commands (say in chat or macro)
-
-| Command | Effect |
-|---|---|
-| `All follow me` | All pets follow you |
-| `All kill` | All pets attack current target |
-| `All stop` | All pets cease current action |
-| `All guard me` | Pets defend; attack anything hostile near you |
-| `All come` | Pets return to your location |
-| `All stay` | Pets hold current position |
-| `All release` | Release all pets (permanent — use carefully) |
-| `[Name] follow me` | Specific named pet follows |
-| `[Name] kill` | Specific pet attacks |
-
-### Client Settings Worth Configuring
-
-- **Sound:** Turn off music, keep combat sounds on — healing ticks and hit sounds are useful audio cues
-- **Names above heads:** Enable for all mobiles — essential for identifying player vs creature
-- **Corpse open on walk-over:** Disable in PvP areas — you don't want to accidentally open a corpse mid-fight
-- **Auto-open corpses:** Enable for PvM, disable for PvP-risk areas
-- **Status bar:** Keep it visible and in an easy-to-scan position
-
----
-
-## 📅 Progression Guide
-
-<div align="center">
-<img src="https://wiki.uooutlands.com/images/thumb/c/cc/playerprogressionsystems2a.png/175px-playerprogressionsystems2a.png" alt="Player Progression Systems" width="420" />
-</div>
-
-
-
-### Days 1–3: Getting Your Feet Under You
-
-Your first objective is survival, learning, and establishing a foundation. Don't worry about being optimal — worry about understanding the systems.
-
-**Checklist:**
-- Complete the starter quest chain from the New Player NPC in Britain
-- Set your skill locks correctly — understand what you want rising and what can fall
-- Train your primary weapon or magic skill on training dummies to at least 30
-- Visit the bank and deposit anything valuable
-- Buy basic armour from player vendors or NPC shops
-- Farm Britain Cemetery for starter gold (easy undead, 10–20 minutes from Britain)
-- Ask questions — the community at Britain Bank is generally helpful to genuine new players
-
----
-
-### Week 1: Building the Foundation
-
-You understand the basics. Now build toward real capability.
-
-**Checklist:**
-- Primary skills reaching 50–60
-- Move from Britain Cemetery to Despise or Spirituality Dungeon
-- Accumulate 50,000+ gold (your first significant savings)
-- Set up your macro hotkeys — all survival macros should be working
-- If crafting: reach GM in one primary craft
-- If taming: begin taming training; get Animal Taming to 70+
-- Consider joining a guild for community support
-
----
-
-### Month 1: Starting to Thrive
-
-You're no longer a beginner. You're working toward mastery.
-
-**Checklist:**
-- Primary skills at 70–80
-- Mid-tier dungeon farming (Shame, Covetous, Deceit)
-- 100,000–300,000 gold saved
-- Crafted or purchased proper armour set matching your resist needs
-- If taming: Animal Taming at 80+; bonded first strong pet
-- Working toward a house (start researching housing areas)
-- Understanding the Auction House and player vendor economy
-
----
-
-### Month 2–3: Becoming Dangerous
-
-Your character is approaching its final form. The game fully opens up.
-
-**Checklist:**
-- All primary skills at 90–100 (Grandmaster)
-- House purchased and set up
-- High-tier dungeon farming (Destard, high Shame)
-- Significant gold reserve — able to replace gear without panic
-- Considering first Power Scrolls for key skills
-- PvP capable if that's your path — practicing in Faction Warfare or guild wars
-- Working toward a Champion Spawn run for Power Scrolls
-
----
-
-### Long-Term Goals (3 months+)
-
-These are the benchmarks of a truly established Outlands character:
-
-- All skills in your template at 100 (Grandmaster), working toward 115–120 via Power Scrolls
-- House fully furnished and operational with vendors
-- Regular Doom Dungeon runs or equivalent high-end farming
-- Known reputation on the shard — players recognise your name
-- Guild membership with real relationships
-- For Tamers: Greater Dragon bonded and properly developed
-- For Crafters: Regular Exceptional Valorite or Barbed production
-- Financial security: millions in the bank, able to replace any gear loss without flinching
 
 ---
 
