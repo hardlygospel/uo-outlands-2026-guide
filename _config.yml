@@ -1,0 +1,37 @@
+title: UO Outlands Guide 2026
+description: The most comprehensive Ultima Online Outlands guide for 2026 — skills, templates, dungeons, PvP, crafting economy, and gold farming routes.
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+search_enabled: true
+permalink: pretty
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "UO Outlands Guide 2026 &mdash; <a href='https://hardlygospel.github.io'>hardlygospel.github.io</a>"
+
+aux_links:
+  "← Homepage":
+    - "https://hardlygospel.github.io"
+  "GitHub":
+    - "https://github.com/hardlygospel/uo-outlands-2026-guide"
+
+aux_links_new_tab: true
+
+callouts_level: quiet
+callouts:
+  tip:
+    title: Tip
+    color: green
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: yellow
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
